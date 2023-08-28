@@ -1,0 +1,8 @@
+langchain
+openai
+tiktoken
+pypdf
+PyCryptodome
+pandas
+export HNSWLIB_NO_NATIVE=1 
+chromadb

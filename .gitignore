@@ -2,3 +2,8 @@
 .chroma
 .DS_Store
 .Rproj.user
+.venv
+chroma_db*
+*.bin
+
+
