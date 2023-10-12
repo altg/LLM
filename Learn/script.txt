@@ -1,0 +1,1618 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.350
+<v Ariful Chowdhury>Uh, no.</v>
+
+00:00:01.420 --> 00:00:04.290
+<v Ariful Chowdhury>I mean, we, we start with the FSD for the 4 reports.</v>
+
+00:00:04.860 --> 00:00:34.890
+<v Ariful Chowdhury>Where do we stand and whether the and I report a focal points have reviewed this FSD or I mean we can have we have some time also before the next meeting with Moodys to highlight if there is any issue related to FSD and then the swap valuation, how do we and and you know calculate the exposure in the in the system so that is something we need to discuss.</v>
+
+00:00:35.040 --> 00:00:45.820
+<v Ariful Chowdhury>And finally, of course, I think as Brother Waqar has guided and that brother Ahmed will will update us on the report planning for element static reports.</v>
+
+00:00:46.600 --> 00:00:49.520
+<v Ariful Chowdhury>So, shall we start with the FSD?</v>
+
+00:00:51.320 --> 00:00:56.800
+<v Ariful Chowdhury>Where do we stand in terms of the updated FSD that this team has shared with us?</v>
+
+00:01:02.550 --> 00:01:03.300
+<v Ariful Chowdhury>But the the room.</v>
+
+00:01:03.310 --> 00:01:07.170
+<v Ariful Chowdhury>Do you have any any comments on the if it's D?</v>
+
+00:01:10.040 --> 00:01:14.020
+<v Ariful Chowdhury>But we we need to review, I've further.</v>
+
+00:01:30.450 --> 00:01:31.220
+<v Ariful Chowdhury>Hello, brother.</v>
+
+00:01:31.230 --> 00:01:31.930
+<v Ariful Chowdhury>Tarun, are you there?</v>
+
+00:01:32.900 --> 00:01:33.330
+<v Tarun Malik (C)>Yeah.</v>
+
+00:01:33.370 --> 00:01:34.290
+<v Tarun Malik (C)>Hello, brother.</v>
+
+00:01:34.440 --> 00:01:35.010
+<v Tarun Malik (C)>Yeah.</v>
+
+00:01:35.000 --> 00:01:35.250
+<v Ariful Chowdhury>Yeah.</v>
+
+00:01:35.100 --> 00:01:35.470
+<v Tarun Malik (C)>How are you?</v>
+
+00:01:35.260 --> 00:01:35.710
+<v Ariful Chowdhury>Yeah.</v>
+
+00:01:35.760 --> 00:01:36.840
+<v Ariful Chowdhury>No, I just wanted to.</v>
+
+00:01:36.850 --> 00:01:37.460
+<v Ariful Chowdhury>Yeah, fine.</v>
+
+00:01:37.470 --> 00:01:37.980
+<v Ariful Chowdhury>Thank you.</v>
+
+00:01:52.750 --> 00:01:53.170
+<v Tarun Malik (C)>Hang up.</v>
+
+00:01:38.120 --> 00:02:14.170
+<v Ariful Chowdhury>I just wanted to hear from you whether you have had the chance to go through the revised or updated FSD that Moodys team has shared after the meeting on Tuesday and maybe our our, you know, focal points for those reports also need to go through the FSD and see whether, I mean, of course that the technical aspects are, you know looked after by brother Tarun and brother I, Walker, but at least from the report perspective.</v>
+
+00:02:17.320 --> 00:02:21.720
+<v Ariful Chowdhury>It's here or during the meeting with Moody's team in next Tuesday.</v>
+
+00:02:24.020 --> 00:02:24.910
+<v Ariful Chowdhury>So brotherly.</v>
+
+00:02:24.920 --> 00:02:26.170
+<v Ariful Chowdhury>If you have any comments, you can.</v>
+
+00:02:27.620 --> 00:02:28.120
+<v Ariful Chowdhury>Tell us.</v>
+
+00:02:32.010 --> 00:02:32.290
+<v Ariful Chowdhury>OK.</v>
+
+00:02:28.620 --> 00:02:33.520
+<v Tarun Malik (C)>OK, I did not check in detail, but I I have overviewed.</v>
+
+00:02:35.210 --> 00:02:35.440
+<v Ariful Chowdhury>Uh-huh.</v>
+
+00:02:38.460 --> 00:02:38.800
+<v Ariful Chowdhury>OK.</v>
+
+00:02:42.930 --> 00:02:43.450
+<v Ariful Chowdhury>Yes, yes.</v>
+
+00:02:47.360 --> 00:02:47.680
+<v Ariful Chowdhury>OK.</v>
+
+00:02:33.530 --> 00:02:50.340
+<v Tarun Malik (C)>I checked that there are, there are some comments in that brother, Arif and it's it's more in the structure now, more better now but it's still there are some some of the points need to work out which is not coming which is not coming properly.</v>
+
+00:02:51.210 --> 00:02:51.490
+<v Ariful Chowdhury>Fine.</v>
+
+00:02:50.490 --> 00:02:54.060
+<v Tarun Malik (C)>Specifically, I'm talking about the sections where the.</v>
+
+00:02:54.550 --> 00:02:58.440
+<v Tarun Malik (C)>Do you know the three layers of the report has been mentioned?</v>
+
+00:03:00.230 --> 00:03:00.590
+<v Ariful Chowdhury>Uh.</v>
+
+00:02:58.450 --> 00:03:05.180
+<v Tarun Malik (C)>That data layer, the intermediate transformation layer and the application layer where we can see the report.</v>
+
+00:03:05.270 --> 00:03:06.680
+<v Tarun Malik (C)>OK, the front end.</v>
+
+00:03:06.650 --> 00:03:06.980
+<v Ariful Chowdhury>Uh.</v>
+
+00:03:06.750 --> 00:03:11.380
+<v Tarun Malik (C)>So so this has to be structured little bit more proper way.</v>
+
+00:03:11.430 --> 00:03:13.280
+<v Tarun Malik (C)>As of now, it's not coming out.</v>
+
+00:03:13.410 --> 00:03:20.400
+<v Tarun Malik (C)>Basically all the reports will have these three layers, OK, all the reports category and the reports.</v>
+
+00:03:20.570 --> 00:03:33.430
+<v Tarun Malik (C)>So if it is a common data layer that has this, this needs to be, uh, you know, comes out like for example, I'm talking about the portfolio reports and there are three portfolio reports that have the requirements still now.</v>
+
+00:03:34.000 --> 00:03:34.360
+<v Ariful Chowdhury>Right.</v>
+
+00:03:33.520 --> 00:03:42.010
+<v Tarun Malik (C)>So for example, if they are taking the exposure and creating a single view from the data side, so that will be a single section in the data.</v>
+
+00:03:42.160 --> 00:03:48.430
+<v Tarun Malik (C)>But when it comes to an, you know the application layer, there are three parts of this.</v>
+
+00:03:48.920 --> 00:03:52.250
+<v Tarun Malik (C)>So all three parts should be, you know, segregated.</v>
+
+00:03:53.050 --> 00:03:53.440
+<v Ariful Chowdhury>Ohh.</v>
+
+00:03:52.580 --> 00:03:55.450
+<v Tarun Malik (C)>As of now, those type of segregation is not there.</v>
+
+00:03:55.560 --> 00:03:57.360
+<v Tarun Malik (C)>So segregation is not there.</v>
+
+00:03:57.370 --> 00:04:04.060
+<v Tarun Malik (C)>It will be difficult for the business to understand that what is the end result is coming up and even for the developer.</v>
+
+00:04:04.370 --> 00:04:34.520
+<v Tarun Malik (C)>So because this document as of now, what our understanding that you know they have mixed the bid part here, OK and uh they are keeping their understanding of the business requirement that they got from Brother Nizar and brother Cisse and you and also they are adding there as per their understanding the part that has to be worked as a functional and technically for the for the reports.</v>
+
+00:04:34.530 --> 00:04:38.700
+<v Tarun Malik (C)>OK, so it has to be structured more proper way little bit.</v>
+
+00:04:38.890 --> 00:04:42.620
+<v Tarun Malik (C)>It's mostly structure, but little bit more work needs to be done.</v>
+
+00:04:42.970 --> 00:04:43.610
+<v Tarun Malik (C)>OK.</v>
+
+00:04:43.650 --> 00:04:50.450
+<v Tarun Malik (C)>And second thing is there are more things should come since assumptions and constraints that is not there.</v>
+
+00:04:50.620 --> 00:04:52.320
+<v Tarun Malik (C)>So we will work with them.</v>
+
+00:04:53.330 --> 00:04:53.670
+<v Ariful Chowdhury>OK.</v>
+
+00:04:57.540 --> 00:04:57.680
+<v Ariful Chowdhury>Yes.</v>
+
+00:04:52.800 --> 00:04:58.600
+<v Tarun Malik (C)>Third thing is that there are the data issues raised from the from mega.</v>
+
+00:04:58.780 --> 00:04:59.390
+<v Tarun Malik (C)>Yeah.</v>
+
+00:04:59.580 --> 00:05:00.070
+<v Tarun Malik (C)>Today.</v>
+
+00:04:59.930 --> 00:05:00.110
+<v Ariful Chowdhury>Yeah.</v>
+
+00:05:00.280 --> 00:05:02.090
+<v Tarun Malik (C)>So I was.</v>
+
+00:05:10.920 --> 00:05:11.240
+<v Ariful Chowdhury>Umm.</v>
+
+00:05:02.100 --> 00:05:17.220
+<v Tarun Malik (C)>I was checking that and that might need a, you know, help from the business side because some of them I have the answer and some of them I need the help from the business side.</v>
+
+00:05:17.230 --> 00:05:22.250
+<v Tarun Malik (C)>What exactly you know in the report we are looking for so we can reply them according.</v>
+
+00:05:24.310 --> 00:05:26.000
+<v Ariful Chowdhury>OK, so in that case, brother.</v>
+
+00:05:26.010 --> 00:05:40.490
+<v Ariful Chowdhury>Tarun I I I think if you can engage the report focal point, OK, because I think these are mainly related to uh the terminology and which specific.</v>
+
+00:05:43.920 --> 00:05:44.160
+<v Tarun Malik (C)>Yeah.</v>
+
+00:05:41.750 --> 00:05:47.240
+<v Ariful Chowdhury>Information to be used so maybe maybe Brother Nizar and Brother Ahmed.</v>
+
+00:05:47.700 --> 00:05:52.550
+<v Ariful Chowdhury>The can can help out in that respect.</v>
+
+00:05:52.810 --> 00:05:53.020
+<v Tarun Malik (C)>Yeah.</v>
+
+00:06:04.540 --> 00:06:04.990
+<v Tarun Malik (C)>OK.</v>
+
+00:05:52.620 --> 00:06:05.010
+<v Ariful Chowdhury>So whenever they have the meeting, I think if you can request the meeting and they report for that point to join so that they can help us, you know.</v>
+
+00:06:05.160 --> 00:06:15.790
+<v Tarun Malik (C)>So one one more thing I want to, you know, ask in this meeting there are two, three points that they raised as a part of a data which is important to answer.</v>
+
+00:06:16.200 --> 00:06:20.280
+<v Tarun Malik (C)>One is that they have raised a part of SDR basket weight.</v>
+
+00:06:22.330 --> 00:06:22.830
+<v Ariful Chowdhury>OK.</v>
+
+00:06:21.790 --> 00:06:39.820
+<v Tarun Malik (C)>So for example, so we are not sending the you know basket where ideally it was supposed to be calculated from the Moody side is my understanding is right that is recording to the ALM balance sheet rather see say if you can help.</v>
+
+00:06:39.060 --> 00:06:40.370
+<v Ariful Chowdhury>That brother?</v>
+
+00:06:40.480 --> 00:06:42.130
+<v Ariful Chowdhury>Yeah, brother, I will cut this is same.</v>
+
+00:06:44.730 --> 00:06:46.710
+<v Abdoul Qadri Ceesay>Could you kindly restate the question please?</v>
+
+00:06:46.890 --> 00:06:49.730
+<v Tarun Malik (C)>Yeah, I'm asking about the port.</v>
+
+00:06:49.740 --> 00:06:53.290
+<v Tarun Malik (C)>This is regarding to the ALM balance sheet by currency report.</v>
+
+00:06:54.700 --> 00:06:55.010
+<v Abdoul Qadri Ceesay>Uh-huh.</v>
+
+00:06:53.590 --> 00:06:58.300
+<v Tarun Malik (C)>So there is an SDR basket right there, right?</v>
+
+00:06:58.670 --> 00:06:59.160
+<v Abdoul Qadri Ceesay>That's right.</v>
+
+00:06:59.170 --> 00:06:59.880
+<v Abdoul Qadri Ceesay>That's right, yes.</v>
+
+00:06:58.510 --> 00:07:03.390
+<v Tarun Malik (C)>So the basket this was supposed to be calculated by the Moody's, right?</v>
+
+00:07:05.770 --> 00:07:11.010
+<v Abdoul Qadri Ceesay>Uh, yeah, the report has a calculation that utilizes the SDR neutral rates, yes.</v>
+
+00:07:12.830 --> 00:07:13.260
+<v Tarun Malik (C)>Yeah.</v>
+
+00:07:13.270 --> 00:07:14.160
+<v Tarun Malik (C)>So what is?</v>
+
+00:07:14.220 --> 00:07:16.110
+<v Tarun Malik (C)>What is required from our side here?</v>
+
+00:07:17.630 --> 00:07:17.990
+<v Abdoul Qadri Ceesay>Nothing.</v>
+
+00:07:17.790 --> 00:07:19.200
+<v Tarun Malik (C)>From the nothing.</v>
+
+00:07:19.210 --> 00:07:19.740
+<v Tarun Malik (C)>Right.</v>
+
+00:07:19.810 --> 00:07:20.180
+<v Tarun Malik (C)>OK.</v>
+
+00:07:20.790 --> 00:07:20.930
+<v Abdoul Qadri Ceesay>No.</v>
+
+00:07:20.190 --> 00:07:21.800
+<v Tarun Malik (C)>That's what my understanding was.</v>
+
+00:07:21.810 --> 00:07:26.720
+<v Tarun Malik (C)>Also they they need to calculate as per the calculation provided right?</v>
+
+00:07:26.790 --> 00:07:28.040
+<v Abdoul Qadri Ceesay>Exactly. Exactly.</v>
+
+00:07:27.050 --> 00:07:29.240
+<v Tarun Malik (C)>So if I share my screen.</v>
+
+00:07:34.390 --> 00:07:36.040
+<v Tarun Malik (C)>These are the for example.</v>
+
+00:07:36.050 --> 00:07:36.880
+<v Tarun Malik (C)>These are the weights.</v>
+
+00:07:38.090 --> 00:07:49.000
+<v Tarun Malik (C)>OK, so based on that, uh, weights, they need to, you know, they need to align with brother Nilesh and calculate this in the report itself for the.</v>
+
+00:07:49.290 --> 00:07:50.650
+<v Tarun Malik (C)>Yeah. OK.</v>
+
+00:07:53.830 --> 00:07:53.980
+<v Tarun Malik (C)>Hey.</v>
+
+00:07:48.960 --> 00:07:56.260
+<v Abdoul Qadri Ceesay>But correct, we have already on this particular report Tarun in on this particular report, we have also.</v>
+
+00:07:57.120 --> 00:07:57.520
+<v Abdoul Qadri Ceesay>Uh.</v>
+
+00:07:57.900 --> 00:08:00.160
+<v Abdoul Qadri Ceesay>Had a session with the with Moody's.</v>
+
+00:08:01.730 --> 00:08:01.860
+<v Tarun Malik (C)>Yes.</v>
+
+00:08:01.270 --> 00:08:15.400
+<v Abdoul Qadri Ceesay>Umm, that basically discussed how this this is supposed to be done, so I think that whole that also has been transferred to them because at the outset of this reporting engagement the gentleman was there.</v>
+
+00:08:15.410 --> 00:08:16.540
+<v Abdoul Qadri Ceesay>I think he's no more with them.</v>
+
+00:08:16.550 --> 00:08:17.440
+<v Abdoul Qadri Ceesay>I forgot his name.</v>
+
+00:08:18.270 --> 00:08:18.710
+<v Tarun Malik (C)>The dia.</v>
+
+00:08:18.470 --> 00:08:21.120
+<v Abdoul Qadri Ceesay>He's no more with the acedia, correct.</v>
+
+00:08:21.440 --> 00:08:23.580
+<v Abdoul Qadri Ceesay>Yes, siddaiah so.</v>
+
+00:08:23.590 --> 00:08:30.680
+<v Abdoul Qadri Ceesay>So I think they they quite understand as far as I know the clear with what needs to happen here.</v>
+
+00:08:31.410 --> 00:08:31.920
+<v Tarun Malik (C)>OK.</v>
+
+00:08:32.130 --> 00:08:39.740
+<v Tarun Malik (C)>And he's there asking the balance sheet items also they need the mysis ID, basically these are not in my SIS.</v>
+
+00:08:41.610 --> 00:08:41.900
+<v Abdoul Qadri Ceesay>Umm.</v>
+
+00:08:40.620 --> 00:08:47.810
+<v Tarun Malik (C)>Yes, investment in associate, we can give the sector which uh, you know, gives the investment in associate.</v>
+
+00:08:47.820 --> 00:09:01.270
+<v Tarun Malik (C)>We have a sector in mice, but basically these are, you know, balance sheet item equity we can provide but paid up capital deserves net income and derivatives, net derivatives, derivatives, net.</v>
+
+00:09:01.280 --> 00:09:02.330
+<v Tarun Malik (C)>What is this, brother?</v>
+
+00:09:04.880 --> 00:09:05.320
+<v Abdoul Qadri Ceesay>Which one?</v>
+
+00:09:02.340 --> 00:09:08.690
+<v Tarun Malik (C)>She say even I did not get his that the 11 number item here.</v>
+
+00:09:09.120 --> 00:09:11.400
+<v Tarun Malik (C)>What is that which I did not get?</v>
+
+00:09:11.820 --> 00:09:18.390
+<v Abdoul Qadri Ceesay>That this is the the swaps net net value you have the asset.</v>
+
+00:09:17.060 --> 00:09:18.870
+<v Tarun Malik (C)>And this is a daily meetings.</v>
+
+00:09:18.460 --> 00:09:19.040
+<v Abdoul Qadri Ceesay>The possibility.</v>
+
+00:09:18.880 --> 00:09:20.870
+<v Tarun Malik (C)>OK. OK.</v>
+
+00:09:20.310 --> 00:09:21.240
+<v Abdoul Qadri Ceesay>Yeah, yeah, this works.</v>
+
+00:09:21.250 --> 00:09:28.480
+<v Abdoul Qadri Ceesay>Mainly mainly swaps the asset value net the the asset side net of the liability side.</v>
+
+00:09:31.020 --> 00:09:31.140
+<v Tarun Malik (C)>Yeah.</v>
+
+00:09:30.170 --> 00:09:33.050
+<v Ariful Chowdhury>So this is essentially the exposure, right?</v>
+
+00:09:34.420 --> 00:09:36.380
+<v Abdoul Qadri Ceesay>Yeah, that's right. Yes.</v>
+
+00:09:34.430 --> 00:09:41.440
+<v Ariful Chowdhury>There was this year and that we have OK, but this is aggregated but for the modist requirement.</v>
+
+00:09:40.340 --> 00:09:41.950
+<v Abdoul Qadri Ceesay>It is aggregated, that's correct.</v>
+
+00:09:42.320 --> 00:09:43.650
+<v Ariful Chowdhury>Yeah, yeah, yeah.</v>
+
+00:09:50.840 --> 00:09:51.070
+<v Abdoul Qadri Ceesay>You know.</v>
+
+00:09:47.580 --> 00:09:54.130
+<v Tarun Malik (C)>But that is a aggregated one, so this should means this should come from where this should come from.</v>
+
+00:09:54.140 --> 00:09:58.060
+<v Tarun Malik (C)>The means this they have to calculate, right?</v>
+
+00:10:00.040 --> 00:10:00.910
+<v Tarun Malik (C)>The data that we.</v>
+
+00:10:00.000 --> 00:10:01.300
+<v Abdoul Qadri Ceesay>Yeah, but then we should have.</v>
+
+00:10:02.360 --> 00:10:06.770
+<v Abdoul Qadri Ceesay>We should have the swap data, yes, as long as we have all the info, yeah.</v>
+
+00:10:09.040 --> 00:10:09.380
+<v Abdoul Qadri Ceesay>OK.</v>
+
+00:10:04.520 --> 00:10:09.870
+<v Tarun Malik (C)>No, no, we we have provided the stripe data in the swap data.</v>
+
+00:10:10.000 --> 00:10:11.840
+<v Tarun Malik (C)>What is the in the swap table?</v>
+
+00:10:11.850 --> 00:10:12.810
+<v Tarun Malik (C)>They asked us.</v>
+
+00:10:12.820 --> 00:10:21.930
+<v Tarun Malik (C)>We have provided that, but the you know the the Mary did not happen between the Nilesh and the reports. Guy.</v>
+
+00:10:22.200 --> 00:10:30.690
+<v Tarun Malik (C)>OK, so there is a delta which is required for the ALM which is required for the report so that that gap is there.</v>
+
+00:10:30.880 --> 00:10:33.160
+<v Tarun Malik (C)>That's why they might be raising it.</v>
+
+00:10:35.140 --> 00:10:35.480
+<v Abdoul Qadri Ceesay>Right.</v>
+
+00:10:36.190 --> 00:10:43.780
+<v Tarun Malik (C)>OK, so they might need 1/2 item extra, but if they will not tell us which you know, we'll then map.</v>
+
+00:10:43.870 --> 00:11:11.580
+<v Tarun Malik (C)>We can't help here, so these type of issues, probably the purpose of highlighting this is that you know this type of things, there is an, you know additional thing is required which is a which we see as a gap still between the you know although they are coordinating now but still we find there is a gap between the between the Moody's team and the ENY team by looking at this example.</v>
+
+00:11:11.590 --> 00:11:12.600
+<v Tarun Malik (C)>At this example.</v>
+
+00:11:12.860 --> 00:11:18.160
+<v Tarun Malik (C)>So if we like it's and for me it will be easy.</v>
+
+00:11:18.170 --> 00:11:26.660
+<v Tarun Malik (C)>I I will write it that allies with the more lies with the Moodys team, but they have to really work out with them.</v>
+
+00:11:26.930 --> 00:11:44.070
+<v Tarun Malik (C)>We we can't help here for any of these perspective, we can't help because all of them what is asked from the Moody's team is is structure is like that that Moody's team ask us that in this table I need this data items go and fetch from your source.</v>
+
+00:11:44.080 --> 00:11:44.760
+<v Tarun Malik (C)>Your source.</v>
+
+00:11:45.030 --> 00:11:49.050
+<v Tarun Malik (C)>So find out these are the description of my target items.</v>
+
+00:11:49.500 --> 00:11:52.210
+<v Tarun Malik (C)>Go and find out in your source and give it to me.</v>
+
+00:11:52.220 --> 00:11:58.310
+<v Tarun Malik (C)>So we we find if he doesn't get, we get a business support transform, validate everything we run and give to them.</v>
+
+00:11:58.830 --> 00:12:13.670
+<v Tarun Malik (C)>Now they if they will not consider the reporting perspective or reporting requirement item and if they will not, you know ask US or provide us the you know the target columns and it should go where we can't tell.</v>
+
+00:12:13.880 --> 00:12:24.900
+<v Tarun Malik (C)>So basically they need to 1st lies with the Moody's team and then from that Channel properly they can come with the you know the target tables and the item.</v>
+
+00:12:24.990 --> 00:12:27.020
+<v Tarun Malik (C)>Item then we can help, yeah.</v>
+
+00:12:28.790 --> 00:12:30.550
+<v >Steve.</v>
+
+00:12:30.610 --> 00:12:39.890
+<v Tarun Malik (C)>Similarly for, for example this WM here last meeting they have talked us about WM in the disbursement model already.</v>
+
+00:12:39.900 --> 00:12:44.270
+<v Tarun Malik (C)>They have created in their system this WM OK.</v>
+
+00:12:44.440 --> 00:12:53.200
+<v Tarun Malik (C)>So so this one the you know this this the weight of the the is the weight.</v>
+
+00:12:53.270 --> 00:12:54.960
+<v Tarun Malik (C)>So this weights are already there.</v>
+
+00:12:58.240 --> 00:13:08.890
+<v Tarun Malik (C)>And yeah, and even for the operation ID we have mapping provided we have already provided the mapping to them is a contract ID.</v>
+
+00:13:08.960 --> 00:13:12.380
+<v Tarun Malik (C)>So if Moodys team is not helping them, we can't help them also.</v>
+
+00:13:16.130 --> 00:13:16.470
+<v Ariful Chowdhury>Umm.</v>
+
+00:13:16.670 --> 00:13:40.520
+<v Abdoul Qadri Ceesay>This was this was one of the reasons I, you know, remember, I've really been insisting of, you know, on on, on Moody's team working very closely in highly integrated manner with the with the UI team because you know issues like this would continue to come if we do not you know ensure that.</v>
+
+00:13:41.030 --> 00:13:51.980
+<v Abdoul Qadri Ceesay>That so you know that the line of communication or clarification first call or first point of clarification is the Moody steam not ISDB team you know?</v>
+
+00:13:54.280 --> 00:13:54.440
+<v Tarun Malik (C)>Yeah.</v>
+
+00:13:55.250 --> 00:13:55.500
+<v Ariful Chowdhury>You know.</v>
+
+00:13:54.720 --> 00:14:05.960
+<v Abdoul Qadri Ceesay>The more we try to enforce that, the better we we we get the Moodys team to to really work very closely with the with with the UI team especially our report.</v>
+
+00:14:07.670 --> 00:14:07.800
+<v Tarun Malik (C)>Yeah.</v>
+
+00:14:08.270 --> 00:14:09.420
+<v Ariful Chowdhury>Yeah, absolutely.</v>
+
+00:14:09.430 --> 00:14:15.340
+<v Ariful Chowdhury>Brother and sister, I think we we discussed this with Moodys team and you NY team right.</v>
+
+00:14:16.140 --> 00:14:16.360
+<v Tarun Malik (C)>I have.</v>
+
+00:14:15.730 --> 00:14:18.990
+<v Ariful Chowdhury>I think 22 meetings two weeks ago.</v>
+
+00:14:19.820 --> 00:14:24.800
+<v Ariful Chowdhury>Uh, I'm not sure whether we need to discuss it at at a higher level.</v>
+
+00:14:25.830 --> 00:14:27.800
+<v Ariful Chowdhury>Uh, maybe I will.</v>
+
+00:14:27.810 --> 00:14:36.440
+<v Ariful Chowdhury>I'll I'll ask Brother Walker and brother Atiq to look into this matter that you know, they need more coordination. Where?</v>
+
+00:14:36.990 --> 00:14:45.800
+<v Ariful Chowdhury>I mean in instances some instances we have provided all the information to move these team and then why should take from them?</v>
+
+00:14:45.810 --> 00:14:54.040
+<v Ariful Chowdhury>I mean, instead of coming to us, if we we don't share something, then of course we will be in a position to give them right.</v>
+
+00:14:54.430 --> 00:14:56.670
+<v Ariful Chowdhury>But we should not give.</v>
+
+00:14:57.670 --> 00:15:00.520
+<v Ariful Chowdhury>I'm in work on on on both sides.</v>
+
+00:15:00.530 --> 00:15:02.960
+<v Ariful Chowdhury>I mean for for both of them it will be really.</v>
+
+00:15:08.580 --> 00:15:08.970
+<v Tarun Malik (C)>Would be.</v>
+
+00:15:04.000 --> 00:15:09.430
+<v Ariful Chowdhury>Uh, I mean, of course, challenging and and time consuming.</v>
+
+00:15:12.470 --> 00:15:12.670
+<v Ariful Chowdhury>Yeah.</v>
+
+00:15:09.690 --> 00:15:13.980
+<v Tarun Malik (C)>Yeah, it will not be organized even even if somebody tell me.</v>
+
+00:15:14.030 --> 00:15:17.360
+<v Tarun Malik (C)>Go bring the, you know waited average matrix.</v>
+
+00:15:17.370 --> 00:15:20.800
+<v Tarun Malik (C)>I I know that you know this is already done.</v>
+
+00:15:21.190 --> 00:15:21.740
+<v Tarun Malik (C)>OK.</v>
+
+00:15:21.830 --> 00:15:22.970
+<v Tarun Malik (C)>And we have a.</v>
+
+00:15:23.430 --> 00:15:33.220
+<v Tarun Malik (C)>This brother Amin, has already taken it as a part of it disbursement model, and he's he's on the reporting track, so ideally he should be helping them.</v>
+
+00:15:34.620 --> 00:15:35.130
+<v Ariful Chowdhury>Only one.</v>
+
+00:15:41.690 --> 00:15:41.930
+<v Ariful Chowdhury>Uh-huh.</v>
+
+00:15:33.810 --> 00:15:47.310
+<v Tarun Malik (C)>So there is an, you know, proper communication required this we have discussed with them like a two days before in the meeting and they send in that today data report that he they you know please confirm the field names and table.</v>
+
+00:15:48.660 --> 00:15:48.900
+<v Ariful Chowdhury>Umm.</v>
+
+00:15:48.510 --> 00:15:58.220
+<v Tarun Malik (C)>So just to if if we need to confirm then you know the what Moody's team is means they are the main spokesperson as a communicated to them.</v>
+
+00:15:58.230 --> 00:16:00.000
+<v Tarun Malik (C)>Them so they have to.</v>
+
+00:16:00.110 --> 00:16:01.680
+<v Tarun Malik (C)>They have to tell, right?</v>
+
+00:16:06.740 --> 00:16:07.810
+<v Tarun Malik (C)>Any help huh?</v>
+
+00:16:06.860 --> 00:16:25.600
+<v Ariful Chowdhury>Alright, I think I'll, I'll, I'll discuss that with the no a little better work around the article on how to raise it to the maybe higher level or to have you know when whenever they have meetings on the project status and they should highlight this point.</v>
+
+00:16:26.090 --> 00:16:27.260
+<v Ariful Chowdhury>So I will, I will ask them.</v>
+
+00:16:30.010 --> 00:16:32.930
+<v Tarun Malik (C)>Uh, regarding this the limit data.</v>
+
+00:16:35.240 --> 00:16:35.690
+<v Tarun Malik (C)>OK.</v>
+
+00:16:35.730 --> 00:16:38.880
+<v Tarun Malik (C)>So we are here looking for a compliance data, right?</v>
+
+00:16:43.550 --> 00:16:43.770
+<v Tarun Malik (C)>OK.</v>
+
+00:16:41.940 --> 00:16:45.710
+<v Ariful Chowdhury>Yes, this is for the Treasury, right, Treasury portfolio.</v>
+
+00:16:46.330 --> 00:16:49.320
+<v Tarun Malik (C)>Yeah, yeah, this is a Treasury limit portfolio too.</v>
+
+00:16:49.500 --> 00:16:49.960
+<v Ariful Chowdhury>Yeah, yeah.</v>
+
+00:16:50.970 --> 00:17:05.590
+<v Tarun Malik (C)>OK, so as of now only some of the data has sent so this is again a gap is a is a reporting gap that has to be come from them to the Moodys and then to us.</v>
+
+00:17:18.300 --> 00:17:18.510
+<v Ariful Chowdhury>Umm.</v>
+
+00:17:07.250 --> 00:17:22.040
+<v Tarun Malik (C)>OK, so this limit approved limit exception per limit, so we need to send these uh, you know, the the counterparty limits and all those through the through through the part of an entity.</v>
+
+00:17:22.370 --> 00:17:27.860
+<v Tarun Malik (C)>OK, for each entity we need to send them, but we are not aware about which field and what.</v>
+
+00:17:28.110 --> 00:17:49.830
+<v Tarun Malik (C)>So this has to be Moodys has to send to Moodys has to tell us in a if you see the project plan under the Data Mart that there is a specific part the gaps related to a you know on reporting, OK data gaps recording reported to a related to a reporting.</v>
+
+00:17:49.920 --> 00:17:54.090
+<v Tarun Malik (C)>So this goes in that plan, that part of task.</v>
+
+00:17:54.160 --> 00:18:05.850
+<v Tarun Malik (C)>So it's still, you know if if the Moodys will not work out this, it will be difficult for us to do that because they need to tell us which field where they want to take it, yes.</v>
+
+00:18:06.070 --> 00:18:29.430
+<v Tarun Malik (C)>So which which field we need to, you know send this date if he doesn't have that fields from the target we can't send it because once they will provide from the target we need to, you know bring in that a part of the ETL we need to check in the source we need to check the data types, transformations everything some time it has to group by some has to join.</v>
+
+00:18:29.700 --> 00:18:33.610
+<v Tarun Malik (C)>So after doing all permutation combination we need to send that.</v>
+
+00:18:34.100 --> 00:18:34.650
+<v Tarun Malik (C)>Yeah.</v>
+
+00:18:34.740 --> 00:18:37.530
+<v Tarun Malik (C)>So it has not initiated, so we can't help like this.</v>
+
+00:18:46.440 --> 00:18:47.110
+<v Tarun Malik (C)>No, they.</v>
+
+00:18:41.060 --> 00:18:47.220
+<v Ariful Chowdhury>You know, are these issues coming out of your recent meeting on the data gaps we?</v>
+
+00:18:47.940 --> 00:18:50.970
+<v Tarun Malik (C)>No, I I didn't have any meeting on data gaps.</v>
+
+00:18:52.060 --> 00:18:52.270
+<v Ariful Chowdhury>Uh.</v>
+
+00:18:50.980 --> 00:18:54.120
+<v Tarun Malik (C)>They have just sent the data points with three today only.</v>
+
+00:18:53.800 --> 00:18:55.250
+<v Ariful Chowdhury>I mean, yeah, yeah.</v>
+
+00:18:55.260 --> 00:18:55.850
+<v Ariful Chowdhury>Data points?</v>
+
+00:18:55.860 --> 00:18:58.170
+<v Ariful Chowdhury>Or did issues so OK.</v>
+
+00:19:07.370 --> 00:19:07.690
+<v Ariful Chowdhury>No.</v>
+
+00:18:57.050 --> 00:19:20.510
+<v Tarun Malik (C)>Yes, so so so basically that you know this looks like it's still they are not In Sync with the Moody stream and uh they the guys need to understand the structure of it, it will not work out like this because unnecessary we are getting a lot of you know requirement which which we are not responsible for as of now.</v>
+
+00:19:21.430 --> 00:19:27.090
+<v Tarun Malik (C)>OK, so it is important the proper structure and process to follow here, yeah.</v>
+
+00:19:31.230 --> 00:19:39.800
+<v Ariful Chowdhury>I think we need to again raise this in the meeting next meeting and then of course, true.</v>
+
+00:19:39.810 --> 00:19:46.790
+<v Ariful Chowdhury>Brother Waqar and brother Atiq and to you know, discuss it at a higher level with Moodys team.</v>
+
+00:19:49.300 --> 00:19:51.150
+<v Ariful Chowdhury>I don't know, Brother Abdulkadir.</v>
+
+00:19:51.160 --> 00:19:53.040
+<v Ariful Chowdhury>Sister, do you have any comments on this?</v>
+
+00:19:55.230 --> 00:19:56.730
+<v Ariful Chowdhury>Or do you have any other approach?</v>
+
+00:20:08.530 --> 00:20:09.560
+<v Ariful Chowdhury>Uh, no, she said.</v>
+
+00:20:20.460 --> 00:20:21.320
+<v Ariful Chowdhury>Ohh go.</v>
+
+00:20:22.980 --> 00:20:23.750
+<v Ariful Chowdhury>No, no, no, no.</v>
+
+00:20:15.230 --> 00:20:23.810
+<v Abdoul Qadri Ceesay>Uh, sorry brother Arif, I I got distracted by an urgent communication from Europe, so I didn't get your last your last last.</v>
+
+00:20:23.760 --> 00:20:24.150
+<v Ariful Chowdhury>What?</v>
+
+00:20:24.160 --> 00:20:24.400
+<v Ariful Chowdhury>What?</v>
+
+00:20:25.220 --> 00:20:33.170
+<v Ariful Chowdhury>You know what I was saying or referring to is that we will, we will discuss this in our next meeting with Moody's team.</v>
+
+00:20:33.180 --> 00:20:34.550
+<v Ariful Chowdhury>Team uh.</v>
+
+00:20:34.630 --> 00:20:38.300
+<v Ariful Chowdhury>The the You know requirement or importance of.</v>
+
+00:20:39.570 --> 00:20:57.590
+<v Ariful Chowdhury>Communication between Moodys team and INY team in terms of data and whatever. We we shared with Moody 's team, so that those should be available to ENY through internal communication between them instead of you know, sending us.</v>
+
+00:20:57.920 --> 00:21:06.180
+<v Ariful Chowdhury>You know, sending us the same request from NY team and also through brother Atiq and brother worker.</v>
+
+00:21:06.570 --> 00:21:09.640
+<v Ariful Chowdhury>We will will will raise this to their higher level.</v>
+
+00:21:10.920 --> 00:21:20.570
+<v Ariful Chowdhury>For you know to to, to bring more ordination among a the their their teams.</v>
+
+00:21:20.580 --> 00:21:23.110
+<v Ariful Chowdhury>I mean between Moodys and NY.</v>
+
+00:21:23.820 --> 00:21:34.140
+<v Ariful Chowdhury>So all I mean I I was just asking you whether you think or you have any other comments or uh, I mean guidance on this?</v>
+
+00:21:35.440 --> 00:21:51.410
+<v Abdoul Qadri Ceesay>And no, actually I would say given that we have already communicated this a few times and we have a as you probably aware, we have consolidated the data, might track with the ALM track, right.</v>
+
+00:21:51.920 --> 00:21:57.690
+<v Abdoul Qadri Ceesay>I mean, being the focal point for Data Mart and reporting is also in the same place.</v>
+
+00:22:01.240 --> 00:22:01.600
+<v Ariful Chowdhury>OK.</v>
+
+00:21:57.700 --> 00:22:03.970
+<v Abdoul Qadri Ceesay>So we're seeing a little bit of that coordination enforced through this structure that we have put in place.</v>
+
+00:22:04.700 --> 00:22:13.110
+<v Abdoul Qadri Ceesay>However, I agree that we should still get Brother Azeem and Atiq uh, if possible, to reinforce this message.</v>
+
+00:22:13.890 --> 00:22:14.200
+<v Ariful Chowdhury>Uh.</v>
+
+00:22:13.120 --> 00:22:14.310
+<v Abdoul Qadri Ceesay>Maybe not necessarily.</v>
+
+00:22:16.840 --> 00:22:17.200
+<v Ariful Chowdhury>OK.</v>
+
+00:22:14.320 --> 00:22:26.310
+<v Abdoul Qadri Ceesay>Take it for the hire, because I think they have been informed, informed, uh fairly, you know rigorously in tabs and from the last.</v>
+
+00:22:26.320 --> 00:22:38.200
+<v Abdoul Qadri Ceesay>I think during the last two to three weeks on the need to make sure that this coordinated approach is, is, is is there between the the Moody's team and the EY team.</v>
+
+00:22:40.120 --> 00:22:40.550
+<v Ariful Chowdhury>OK.</v>
+
+00:22:42.790 --> 00:22:44.160
+<v Ariful Chowdhury>OK, well I'm taken.</v>
+
+00:22:44.170 --> 00:22:44.290
+<v Abdoul Qadri Ceesay>Yeah.</v>
+
+00:22:44.170 --> 00:22:59.650
+<v Ariful Chowdhury>I think we will, we will try to reinforce our views for them to coordinate more deeply and and and and we will use the regular channel.</v>
+
+00:22:59.660 --> 00:23:12.970
+<v Ariful Chowdhury>I mean, like our regular meetings with Moody's team and also the meetings that I think other tracks also have with with Moody's team, so will do that.</v>
+
+00:23:21.520 --> 00:23:22.470
+<v Tarun Malik (C)>Yeah, yeah, I'm good.</v>
+
+00:23:18.810 --> 00:23:23.220
+<v Ariful Chowdhury>Is that OK, brother Tarun or you have any further comments?</v>
+
+00:23:23.230 --> 00:23:23.470
+<v Ariful Chowdhury>OK.</v>
+
+00:23:22.780 --> 00:23:24.230
+<v Tarun Malik (C)>No, no, it's it's OK.</v>
+
+00:23:24.360 --> 00:23:24.680
+<v Tarun Malik (C)>It's OK.</v>
+
+00:23:24.920 --> 00:23:26.230
+<v Ariful Chowdhury>OK, that's fine.</v>
+
+00:23:26.300 --> 00:23:33.280
+<v Ariful Chowdhury>So let's let's come to the second point or second agenda, which is the swap exposure.</v>
+
+00:23:34.270 --> 00:23:43.540
+<v Ariful Chowdhury>So I mean, what do we do about the methodology and calculation of a swap exposure in the system?</v>
+
+00:23:43.550 --> 00:23:51.350
+<v Ariful Chowdhury>Because I think we need to give them, it is on our part how, uh or what?</v>
+
+00:23:51.360 --> 00:23:56.200
+<v Ariful Chowdhury>What methodology should be adopted to calculate the exposure swap exposure?</v>
+
+00:23:59.920 --> 00:24:03.210
+<v Ariful Chowdhury>So brother Jishan and brother Abdulkadir say you are.</v>
+
+00:24:03.220 --> 00:24:05.290
+<v Ariful Chowdhury>Do you have any guidance on this?</v>
+
+00:24:11.000 --> 00:24:11.340
+<v Ariful Chowdhury>OK.</v>
+
+00:24:06.590 --> 00:24:21.180
+<v Abdoul Qadri Ceesay>But brother, if this question came up in an earlier meeting as well, first of all, I think as the custodian of the report needs to make it clear to us, uh, what kind of swap exposure is required.</v>
+
+00:24:21.590 --> 00:24:25.340
+<v Abdoul Qadri Ceesay>You know they have nominal values, right?</v>
+
+00:24:26.350 --> 00:24:26.570
+<v Ariful Chowdhury>Uh-huh.</v>
+
+00:24:25.870 --> 00:24:28.540
+<v Abdoul Qadri Ceesay>You could have market values.</v>
+
+00:24:28.680 --> 00:24:45.030
+<v Abdoul Qadri Ceesay>You could say we want just the net exposure of inflows and outflows or the receive and pay legs from all the swaps when we need to know what the construct of this particular report is requesting for, right?</v>
+
+00:24:47.040 --> 00:24:55.150
+<v Abdoul Qadri Ceesay>Because depending on the type of analysis you do, your approach to getting the exposure may differ right?</v>
+
+00:25:13.050 --> 00:25:13.300
+<v Ariful Chowdhury>Umm.</v>
+
+00:24:55.480 --> 00:25:17.910
+<v Abdoul Qadri Ceesay>Typically I I I work with the getting the the net derivatives position I as part of my exposure calculations that I do, but I don't know what you know this particular portfolio report or the exposure report that that you do is looking at that.</v>
+
+00:25:17.920 --> 00:25:20.960
+<v Abdoul Qadri Ceesay>Maybe we need to be informed by the business behind the report.</v>
+
+00:25:24.830 --> 00:25:25.440
+<v Ariful Chowdhury>Yeah.</v>
+
+00:25:32.160 --> 00:25:32.340
+<v Zeshan Ahmed Saghiruddin Ahmed>Yep.</v>
+
+00:26:12.200 --> 00:26:12.320
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah.</v>
+
+00:25:26.210 --> 00:26:14.430
+<v Ariful Chowdhury>Brother Nizar, a brother Jishan, do you have any the comments on this because I I think and I mean normally we don't take into consideration the swap exposure, but I I think this is a valid point that we need to from now on we need to account the swap exposure for our API in into our exposure and and you know headroom calculation so but for that we need to give them the I mean methodology or the calculation you know and how how we we calculate the net exposure for each of the transaction or for each of the FI.</v>
+
+00:26:15.460 --> 00:26:17.440
+<v Ariful Chowdhury>So just presentation.</v>
+
+00:26:18.360 --> 00:26:31.300
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah, just to add to brother, if what you just said brothers to say, it's a for in any case in any use case I see we would require the market value shop anyways.</v>
+
+00:26:31.410 --> 00:26:34.780
+<v Zeshan Ahmed Saghiruddin Ahmed>It can be a counterparty limit compliance monitoring.</v>
+
+00:26:34.870 --> 00:26:39.620
+<v Zeshan Ahmed Saghiruddin Ahmed>So for banks swap market where you need to be accounted for, it can be PVOD.</v>
+
+00:26:39.630 --> 00:26:48.520
+<v Zeshan Ahmed Saghiruddin Ahmed>One analysis for ALM, we need the market value of swap so that we can when we shock we realize that OK if our swap is hedging holding its hedge or not.</v>
+
+00:26:48.930 --> 00:26:54.760
+<v Zeshan Ahmed Saghiruddin Ahmed>If we are looking after liquidity side, obviously we need cash flows, net cash flows, not just nominal.</v>
+
+00:26:55.080 --> 00:26:56.360
+<v Zeshan Ahmed Saghiruddin Ahmed>How many does not make any sense?</v>
+
+00:26:56.700 --> 00:27:06.630
+<v Zeshan Ahmed Saghiruddin Ahmed>So what I'm seeing is in most of the cases I see we need to provide them the market value rather than any pay or receive like nominal or national.</v>
+
+00:27:06.640 --> 00:27:13.360
+<v Zeshan Ahmed Saghiruddin Ahmed>It does not make any sense to provide that what I think should be the course of action.</v>
+
+00:27:14.200 --> 00:27:14.620
+<v Zeshan Ahmed Saghiruddin Ahmed>Uh.</v>
+
+00:27:14.920 --> 00:27:19.670
+<v Zeshan Ahmed Saghiruddin Ahmed>Swap valuation can be done in my SIS, I think there's a functionality to do that.</v>
+
+00:27:19.680 --> 00:27:25.130
+<v Zeshan Ahmed Saghiruddin Ahmed>I'm not sure whether we it's a good good option to do it in a Moody solution itself.</v>
+
+00:27:26.040 --> 00:27:32.570
+<v Zeshan Ahmed Saghiruddin Ahmed>The the the solution can be do it in myself and send to, ERM the market value for swap.</v>
+
+00:27:32.980 --> 00:27:37.820
+<v Zeshan Ahmed Saghiruddin Ahmed>This is one way I was thinking, but we need to have market value not just a nominal.</v>
+
+00:27:42.100 --> 00:27:45.780
+<v Abdoul Qadri Ceesay>Absolutely on that that that definitely should be the case.</v>
+
+00:27:47.450 --> 00:27:58.680
+<v Zeshan Ahmed Saghiruddin Ahmed>And also it's not only, uh, dependent on the report side because the, the, the, the, the, the reporting team may not know this, it's mainly more market risk dimension rather than the the reporting dimension.</v>
+
+00:28:01.990 --> 00:28:02.620
+<v Ariful Chowdhury>Yeah.</v>
+
+00:28:12.610 --> 00:28:12.830
+<v Zeshan Ahmed Saghiruddin Ahmed>Uh.</v>
+
+00:28:02.710 --> 00:28:14.160
+<v Ariful Chowdhury>So brother Jashan, who who will do this in the Misys, for example, say if it is not done in the RFO to stem save him.</v>
+
+00:28:14.750 --> 00:28:16.420
+<v Zeshan Ahmed Saghiruddin Ahmed>Usually usually.</v>
+
+00:28:16.850 --> 00:28:21.760
+<v Zeshan Ahmed Saghiruddin Ahmed>I mean it's it's it's it's, it's this topic going topic is going outside the ERM context.</v>
+
+00:28:21.770 --> 00:28:35.440
+<v Zeshan Ahmed Saghiruddin Ahmed>But in my understanding of the C can correct me the the tragedy book valuation is responsibility of middle office, so they need to set up the market valuation for swaps and if they do it, the market value will be calculated.</v>
+
+00:28:41.210 --> 00:28:41.530
+<v Ariful Chowdhury>Yeah.</v>
+
+00:28:35.450 --> 00:28:44.820
+<v Zeshan Ahmed Saghiruddin Ahmed>In my SIS and we we can just integrate that market value to ERM database and I think that the bathroom is well aware of this this process.</v>
+
+00:28:46.810 --> 00:28:46.970
+<v Tarun Malik (C)>But.</v>
+
+00:28:50.170 --> 00:28:50.750
+<v Zeshan Ahmed Saghiruddin Ahmed>Why you laughing?</v>
+
+00:28:50.870 --> 00:28:51.650
+<v Tarun Malik (C)>OK.</v>
+
+00:28:51.880 --> 00:29:00.580
+<v Tarun Malik (C)>So see see because you are, you know, throwing the new requirement and it's from the years and years.</v>
+
+00:29:01.910 --> 00:29:02.480
+<v Zeshan Ahmed Saghiruddin Ahmed>No, it's not.</v>
+
+00:29:00.590 --> 00:29:02.700
+<v Tarun Malik (C)>It's under Bloomberg, now.</v>
+
+00:29:02.490 --> 00:29:04.050
+<v Zeshan Ahmed Saghiruddin Ahmed>It's not a new requirement, whether they're.</v>
+
+00:29:02.710 --> 00:29:04.280
+<v Tarun Malik (C)>We we are. We are.</v>
+
+00:29:04.470 --> 00:29:05.440
+<v Tarun Malik (C)>Yeah.</v>
+
+00:29:06.360 --> 00:29:06.880
+<v Abdoul Qadri Ceesay>I've listed.</v>
+
+00:29:05.450 --> 00:29:07.140
+<v Tarun Malik (C)>See in in my sees.</v>
+
+00:29:07.150 --> 00:29:19.120
+<v Tarun Malik (C)>As of now you know, just just to give you the column is built within nominal plus accrued OK with some perspective of some business user requirement.</v>
+
+00:29:19.220 --> 00:29:19.980
+<v Tarun Malik (C)>OK.</v>
+
+00:29:20.170 --> 00:29:25.970
+<v Tarun Malik (C)>They they take the nominal plus the accrued amount as a part of her exposure of the uh.</v>
+
+00:29:25.980 --> 00:29:26.470
+<v Tarun Malik (C)>Swept.</v>
+
+00:29:26.530 --> 00:29:29.350
+<v Tarun Malik (C)>OK, that might not work with the market.</v>
+
+00:29:29.360 --> 00:29:34.550
+<v Tarun Malik (C)>Risky, but that's that's how it is built in the myses as of now.</v>
+
+00:29:34.940 --> 00:29:37.670
+<v Tarun Malik (C)>But I'm not sure whether you can take it or not.</v>
+
+00:29:37.780 --> 00:29:49.380
+<v Tarun Malik (C)>The second problem is that you know in coming time maybe the this will go in a you know valuation part with the corporate middle office from PPP Middle Office.</v>
+
+00:29:49.470 --> 00:29:49.960
+<v Zeshan Ahmed Saghiruddin Ahmed>Treasury.</v>
+
+00:29:49.970 --> 00:29:50.080
+<v Zeshan Ahmed Saghiruddin Ahmed>No.</v>
+
+00:29:49.460 --> 00:29:50.200
+<v Tarun Malik (C)>So there is a.</v>
+
+00:29:50.090 --> 00:29:50.860
+<v Zeshan Ahmed Saghiruddin Ahmed>No treasure, no.</v>
+
+00:29:50.870 --> 00:29:53.780
+<v Zeshan Ahmed Saghiruddin Ahmed>No Treasury valuation will never come to cover middle office.</v>
+
+00:29:53.850 --> 00:29:55.320
+<v Zeshan Ahmed Saghiruddin Ahmed>Only funds will end.</v>
+
+00:29:56.000 --> 00:29:56.670
+<v Abdoul Qadri Ceesay>Which teacher?</v>
+
+00:29:57.560 --> 00:29:58.510
+<v Tarun Malik (C)>OK, OK.</v>
+
+00:29:55.390 --> 00:29:59.960
+<v Zeshan Ahmed Saghiruddin Ahmed>Equities will go to couple middle office, so it's a total yeah and also.</v>
+
+00:29:58.930 --> 00:30:09.010
+<v Tarun Malik (C)>So as of now it it it's with brother, you know they they does on the Bloomberg they send the things to the middle office FPPA middle office.</v>
+
+00:30:09.020 --> 00:30:10.210
+<v Tarun Malik (C)>They check on the Bloomberg.</v>
+
+00:30:10.440 --> 00:30:12.770
+<v Tarun Malik (C)>OK, so everything is fine.</v>
+
+00:30:12.780 --> 00:30:21.990
+<v Tarun Malik (C)>So it's a valuation as of now from the Bloomberg and the Excel sheet and mostly so this has to give us come on the ground.</v>
+
+00:30:23.820 --> 00:30:23.960
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah.</v>
+
+00:30:22.520 --> 00:30:25.790
+<v Tarun Malik (C)>I'm not sure how it will happen and how we will.</v>
+
+00:30:25.860 --> 00:30:29.280
+<v Tarun Malik (C)>You know the dates we are looking for, how we will synchronize that.</v>
+
+00:30:29.730 --> 00:30:31.560
+<v Tarun Malik (C)>That's a that's a big challenge.</v>
+
+00:30:32.170 --> 00:30:35.040
+<v Tarun Malik (C)>That's why I was thinking of what can be done here.</v>
+
+00:30:36.000 --> 00:30:37.050
+<v Zeshan Ahmed Saghiruddin Ahmed>Because the because the.</v>
+
+00:30:35.510 --> 00:30:41.310
+<v Tarun Malik (C)>So if we have some formula, if you have some formula specific as brothers, he said.</v>
+
+00:30:41.320 --> 00:30:51.850
+<v Tarun Malik (C)>That what is the perspective we are looking at if we have some formula we can build a, you know custom column and try to see that because we have only two swaps in the system as of now open.</v>
+
+00:30:53.630 --> 00:30:54.940
+<v Zeshan Ahmed Saghiruddin Ahmed>The perspective is the same thing.</v>
+
+00:30:54.950 --> 00:30:55.220
+<v Zeshan Ahmed Saghiruddin Ahmed>Uh.</v>
+
+00:30:55.290 --> 00:30:58.480
+<v Zeshan Ahmed Saghiruddin Ahmed>The counterparty limit which brother is argues for the banks.</v>
+
+00:31:01.830 --> 00:31:02.080
+<v Ariful Chowdhury>Uh.</v>
+
+00:30:58.490 --> 00:31:03.080
+<v Zeshan Ahmed Saghiruddin Ahmed>It clearly says that we need to capture sukuk, money market and swap exposures.</v>
+
+00:31:03.150 --> 00:31:05.290
+<v Zeshan Ahmed Saghiruddin Ahmed>It's clearly says this and so.</v>
+
+00:31:04.650 --> 00:31:05.400
+<v Tarun Malik (C)>And no, I'm.</v>
+
+00:31:06.020 --> 00:31:18.180
+<v Tarun Malik (C)>I'm saying that the calculation of the exposure, what columns we need to like exact if you can give us the formula of calculating that this is what I'm looking for.</v>
+
+00:31:18.760 --> 00:31:19.380
+<v Tarun Malik (C)>OK.</v>
+
+00:31:19.830 --> 00:31:21.800
+<v Tarun Malik (C)>With with respect to the system.</v>
+
+00:31:21.990 --> 00:31:27.500
+<v Tarun Malik (C)>So then we can build that in the system and try to do that with the with the help of MD.</v>
+
+00:31:27.610 --> 00:31:29.790
+<v Tarun Malik (C)>But if it doesn't have anything, yeah.</v>
+
+00:31:28.380 --> 00:31:33.300
+<v Ariful Chowdhury>Brother, the other person you're talking about swap valuation, right?</v>
+
+00:31:33.710 --> 00:31:34.040
+<v Tarun Malik (C)>Yeah.</v>
+
+00:31:34.050 --> 00:31:34.620
+<v Tarun Malik (C)>Yeah, swaps.</v>
+
+00:31:36.260 --> 00:31:36.590
+<v Tarun Malik (C)>Yes.</v>
+
+00:31:36.600 --> 00:31:38.050
+<v Tarun Malik (C)>Yes, only only serve.</v>
+
+00:31:34.170 --> 00:31:40.370
+<v Ariful Chowdhury>I mean calculation for swap valuation not for because the exposure is pretty much clear.</v>
+
+00:31:40.730 --> 00:31:40.880
+<v Tarun Malik (C)>And.</v>
+
+00:31:40.380 --> 00:31:47.180
+<v Ariful Chowdhury>It is very stiff, I mean straightforward, but the complications arising due to the swap.</v>
+
+00:31:49.760 --> 00:31:50.050
+<v Tarun Malik (C)>Yeah.</v>
+
+00:31:50.060 --> 00:31:51.150
+<v Tarun Malik (C)>Yeah. Yeah, yeah.</v>
+
+00:31:48.400 --> 00:31:52.480
+<v Ariful Chowdhury>Valuation, I mean we we are not, we don't have any specific formula.</v>
+
+00:31:51.240 --> 00:31:55.000
+<v Tarun Malik (C)>Yes, yes, yes, yes, order.</v>
+
+00:31:58.470 --> 00:31:58.650
+<v Ariful Chowdhury>Yeah.</v>
+
+00:31:55.150 --> 00:32:03.490
+<v Tarun Malik (C)>Because the market value column does not give anything here because it's, it will give you a negative amount for the shops in the system, yeah.</v>
+
+00:32:08.300 --> 00:32:10.390
+<v Ariful Chowdhury>So how how do we solve this problem?</v>
+
+00:32:10.400 --> 00:32:13.200
+<v Ariful Chowdhury>Because we need to have the swap.</v>
+
+00:32:13.210 --> 00:32:16.900
+<v Ariful Chowdhury>Uh, exposure by if I.</v>
+
+00:32:18.020 --> 00:32:26.840
+<v Ariful Chowdhury>So if we have now two swaps for two financial institutions, then in the exposure calculation we need to include them.</v>
+
+00:32:28.040 --> 00:32:38.240
+<v Ariful Chowdhury>Now, I mean, obviously we cannot say Moody's team, I mean to to bring a swap exposure from their own calculation.</v>
+
+00:32:38.250 --> 00:32:38.830
+<v Ariful Chowdhury>Calculation.</v>
+
+00:32:38.840 --> 00:32:44.330
+<v Ariful Chowdhury>I mean, we have to give our own own methodology, our own calculation, uh.</v>
+
+00:32:44.400 --> 00:32:44.740
+<v Ariful Chowdhury>Uh.</v>
+
+00:32:45.960 --> 00:32:53.880
+<v Zeshan Ahmed Saghiruddin Ahmed>One dirty way could be if we can manually take valuation, as the Tarun said, Middle Office does it from Bloomberg.</v>
+
+00:32:53.890 --> 00:33:00.870
+<v Zeshan Ahmed Saghiruddin Ahmed>We manually take the value and enter it, so somehow month end to VRM of two Excel file we just loaded.</v>
+
+00:33:01.390 --> 00:33:03.130
+<v Zeshan Ahmed Saghiruddin Ahmed>That is the one dirty solution I can think of.</v>
+
+00:33:05.650 --> 00:33:07.400
+<v Ariful Chowdhury>But we cannot do it to my SIS.</v>
+
+00:33:07.410 --> 00:33:09.830
+<v Ariful Chowdhury>So that you know.</v>
+
+00:33:11.940 --> 00:33:17.110
+<v Ariful Chowdhury>You're in system because it is integrated with the masses, right?</v>
+
+00:33:17.160 --> 00:33:18.690
+<v Ariful Chowdhury>So it can take from my SIS.</v>
+
+00:33:20.900 --> 00:33:21.560
+<v Ariful Chowdhury>Is it possible?</v>
+
+00:33:20.490 --> 00:33:29.060
+<v Tarun Malik (C)>The new discuss with Brother Talon that he's a these guys are working more on this so if you can discuss with it.</v>
+
+00:33:30.140 --> 00:33:30.890
+<v Tarun Malik (C)>Yeah.</v>
+
+00:33:30.960 --> 00:33:31.510
+<v Tarun Malik (C)>Yeah.</v>
+
+00:33:28.040 --> 00:33:32.820
+<v Ariful Chowdhury>Other Talha is not here today but yeah.</v>
+
+00:33:31.560 --> 00:33:40.460
+<v Tarun Malik (C)>So if you can discuss with him, then we can, you know, work out and and the Treasury Front office also, who works on the swap so.</v>
+
+00:33:40.880 --> 00:33:46.340
+<v Tarun Malik (C)>There these guys has to answer 1st and then we can we can think of, yeah.</v>
+
+00:33:47.010 --> 00:33:48.290
+<v Zeshan Ahmed Saghiruddin Ahmed>This is a very important comment.</v>
+
+00:33:48.310 --> 00:33:53.460
+<v Zeshan Ahmed Saghiruddin Ahmed>But then we need to ask tragedy what exactly they consider swap exposure.</v>
+
+00:33:53.910 --> 00:33:56.380
+<v Zeshan Ahmed Saghiruddin Ahmed>That should be accounted for the limit monitoring.</v>
+
+00:33:57.400 --> 00:33:57.520
+<v Tarun Malik (C)>Yeah.</v>
+
+00:33:59.960 --> 00:34:01.530
+<v Ariful Chowdhury>And we have Brother Alpha here.</v>
+
+00:34:02.140 --> 00:34:05.100
+<v Ariful Chowdhury>Any any comments from Brother Alpha on this topic?</v>
+
+00:34:04.570 --> 00:34:05.320
+<v Alfa Issa Goumandakoye>So my little.</v>
+
+00:34:06.480 --> 00:34:06.890
+<v Tarun Malik (C)>Alam.</v>
+
+00:34:06.240 --> 00:34:07.120
+<v Ariful Chowdhury>Well, it was Alam.</v>
+
+00:34:08.450 --> 00:34:11.240
+<v Alfa Issa Goumandakoye>Actually, at the beginning when you talk about the swap.</v>
+
+00:34:11.250 --> 00:34:19.300
+<v Alfa Issa Goumandakoye>So I just refer to Captain marketing team to ask them about this one valuation from the treasure they said.</v>
+
+00:34:19.630 --> 00:34:36.620
+<v Alfa Issa Goumandakoye>So what I the feedback I got from the team is that for the past two years we had this external auditor who has taken this function from Treasury and he said that Treasury should not be involved in their valuation of the stock position or the soft transaction.</v>
+
+00:34:37.030 --> 00:34:44.100
+<v Alfa Issa Goumandakoye>So for the past year, the price of being a transferred over to to the PM in the office, who is working?</v>
+
+00:34:48.370 --> 00:34:48.510
+<v Ariful Chowdhury>No.</v>
+
+00:34:44.110 --> 00:34:48.660
+<v Alfa Issa Goumandakoye>Who is doing this activity so it is a?</v>
+
+00:34:48.730 --> 00:34:50.060
+<v Alfa Issa Goumandakoye>It said it's a.</v>
+
+00:34:50.150 --> 00:34:57.570
+<v Alfa Issa Goumandakoye>It's an audit commendation, not for the business unit, not to be involved in the.</v>
+
+00:34:58.050 --> 00:34:59.170
+<v Alfa Issa Goumandakoye>Work valuation.</v>
+
+00:35:04.770 --> 00:35:08.540
+<v Zeshan Ahmed Saghiruddin Ahmed>Then I think that the the Alfa you misunderstood, you're not asking you to do valuation.</v>
+
+00:35:09.930 --> 00:35:10.080
+<v Alfa Issa Goumandakoye>But.</v>
+
+00:35:14.140 --> 00:35:14.390
+<v Alfa Issa Goumandakoye>Yes.</v>
+
+00:35:08.550 --> 00:35:14.720
+<v Zeshan Ahmed Saghiruddin Ahmed>We are asking uh, when we talk about exposure to swap to treasury.</v>
+
+00:35:14.730 --> 00:35:21.940
+<v Zeshan Ahmed Saghiruddin Ahmed>Consider do Treasury consider net market value as a swap exposure or nominal value as stop exposure.</v>
+
+00:35:22.510 --> 00:35:23.850
+<v Zeshan Ahmed Saghiruddin Ahmed>What is the market convention?</v>
+
+00:35:23.930 --> 00:35:25.210
+<v Zeshan Ahmed Saghiruddin Ahmed>You're closer to the market, right?</v>
+
+00:35:27.520 --> 00:35:28.050
+<v Zeshan Ahmed Saghiruddin Ahmed>Exactly.</v>
+
+00:35:23.000 --> 00:35:28.390
+<v Alfa Issa Goumandakoye>OK, I think the Market convention is the market right in market value. Of course.</v>
+
+00:35:28.400 --> 00:35:28.570
+<v Alfa Issa Goumandakoye>Yeah.</v>
+
+00:35:29.810 --> 00:35:30.030
+<v Alfa Issa Goumandakoye>Yeah.</v>
+
+00:35:28.480 --> 00:35:31.340
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah, yeah, this is the only thing I think we are hoping.</v>
+
+00:35:30.830 --> 00:35:33.970
+<v Alfa Issa Goumandakoye>No, I'm just, I think this is a market practice.</v>
+
+00:35:34.770 --> 00:35:34.980
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah.</v>
+
+00:35:33.980 --> 00:35:37.150
+<v Alfa Issa Goumandakoye>So if this we have to go by the market practice, yes.</v>
+
+00:35:37.160 --> 00:35:38.210
+<v Alfa Issa Goumandakoye>If it is a market.</v>
+
+00:35:37.590 --> 00:35:39.920
+<v Zeshan Ahmed Saghiruddin Ahmed>That, yeah.</v>
+
+00:35:42.490 --> 00:35:42.750
+<v Alfa Issa Goumandakoye>OK.</v>
+
+00:35:50.920 --> 00:35:57.210
+<v Ariful Chowdhury>So, umm, we need to then maybe discuss with our.</v>
+
+00:35:59.240 --> 00:36:01.120
+<v Ariful Chowdhury>It could be a middle of his team.</v>
+
+00:36:02.240 --> 00:36:03.190
+<v Ariful Chowdhury>How do they care?</v>
+
+00:36:03.200 --> 00:36:07.770
+<v Ariful Chowdhury>I mean calculate and where do they store this valuation?</v>
+
+00:36:08.120 --> 00:36:14.540
+<v Ariful Chowdhury>I'm I'm not sure because I I tried to call again Talha but maybe he's on leave and he's away.</v>
+
+00:36:14.390 --> 00:36:15.870
+<v Alfa Issa Goumandakoye>Things on these things on me.</v>
+
+00:36:15.920 --> 00:36:16.430
+<v Ariful Chowdhury>Yeah.</v>
+
+00:36:16.480 --> 00:36:18.310
+<v Ariful Chowdhury>So. So maybe.</v>
+
+00:36:18.660 --> 00:36:18.940
+<v Ariful Chowdhury>Maybe.</v>
+
+00:36:18.950 --> 00:36:19.170
+<v Ariful Chowdhury>OK.</v>
+
+00:36:19.180 --> 00:36:27.740
+<v Ariful Chowdhury>I'll I'll also discuss or take up this issue with the middle office and see what what can be done otherwise.</v>
+
+00:36:27.750 --> 00:36:29.780
+<v Ariful Chowdhury>I mean, we have to have some solution right to.</v>
+
+00:36:27.950 --> 00:36:41.460
+<v Alfa Issa Goumandakoye>We in you know, if I may recall, no, this book called me, we are having some issues on the occupational exposure and then we're not understanding why they're resist exposure serving.</v>
+
+00:36:41.470 --> 00:36:52.820
+<v Alfa Issa Goumandakoye>Then we can go up and down for this Standard Chartered and later on we found out that it is the swap exposure that has is being added to the exposure and then we're always breaking.</v>
+
+00:36:53.330 --> 00:36:56.720
+<v Alfa Issa Goumandakoye>I think they don't take the nominal exposure.</v>
+
+00:36:56.730 --> 00:37:02.560
+<v Alfa Issa Goumandakoye>They take the markets market exposure, that's what they expect from the middle office.</v>
+
+00:37:02.740 --> 00:37:07.310
+<v Alfa Issa Goumandakoye>I'm not sure but this my my understanding of what they're doing.</v>
+
+00:37:11.370 --> 00:37:13.320
+<v Ariful Chowdhury>OK, alright.</v>
+
+00:37:13.330 --> 00:37:25.700
+<v Ariful Chowdhury>I think we need to discuss this further, but maybe in the next meeting with Moody 's team. We I mean, if we can have some solution before that, it would be great, but brother Jishan.</v>
+
+00:37:26.200 --> 00:37:38.070
+<v Ariful Chowdhury>Maybe if you can kindly, I mean see it internally also with with with Brother Talha if you can and I mean get in touch with him.</v>
+
+00:37:46.160 --> 00:37:46.620
+<v Alfa Issa Goumandakoye>License.</v>
+
+00:37:39.310 --> 00:37:47.650
+<v Ariful Chowdhury>And see how how they are doing it and how they are storing it in the in the system if, if, if, if at all.</v>
+
+00:37:48.700 --> 00:37:50.790
+<v Ariful Chowdhury>And then maybe we can have, yeah.</v>
+
+00:37:49.070 --> 00:37:51.040
+<v Zeshan Ahmed Saghiruddin Ahmed>No, no, I I already know.</v>
+
+00:37:53.130 --> 00:37:53.580
+<v Ariful Chowdhury>But they're not.</v>
+
+00:37:50.860 --> 00:37:58.110
+<v Zeshan Ahmed Saghiruddin Ahmed>They they're not storing anything, they just run it in a Bloomberg and they send the create an Excel and they send it to FCD directly through Excel.</v>
+
+00:38:00.920 --> 00:38:01.200
+<v Ariful Chowdhury>OK.</v>
+
+00:38:00.650 --> 00:38:01.360
+<v Alfa Issa Goumandakoye>And so they don't.</v>
+
+00:38:01.210 --> 00:38:01.700
+<v Ariful Chowdhury>I mean where?</v>
+
+00:38:01.710 --> 00:38:02.090
+<v Ariful Chowdhury>Where? Where?</v>
+
+00:38:01.370 --> 00:38:02.830
+<v Alfa Issa Goumandakoye>You have dated in license.</v>
+
+00:38:03.610 --> 00:38:18.920
+<v Ariful Chowdhury>Yeah, whether this is in, in a monthly basis and whether it can be stored in, in, in my SIS, so that you know there we can create any sort of link between my SIS and other four database.</v>
+
+00:38:21.300 --> 00:38:30.340
+<v Ariful Chowdhury>I think let's first, I mean, uh, see how whether whether there is any functionality in the mice is 2 stories.</v>
+
+00:38:42.180 --> 00:38:43.130
+<v Ariful Chowdhury>OK. I I.</v>
+
+00:38:43.140 --> 00:38:45.470
+<v Ariful Chowdhury>Brother Tarun can, can you check this aspect?</v>
+
+00:38:45.480 --> 00:38:57.400
+<v Ariful Chowdhury>Whether for example, if if we for I mean if if PM, middle office does this on a monthly basis and they send it to the FCD on Excel sheet.</v>
+
+00:38:58.120 --> 00:39:08.270
+<v Ariful Chowdhury>So there, there might be some way to and I mean it's stored it in mices so that they they this valuation can be used by RFO.</v>
+
+00:39:09.130 --> 00:39:10.010
+<v Ariful Chowdhury>I'm not sure.</v>
+
+00:39:10.850 --> 00:39:11.670
+<v Tarun Malik (C)>Speaking about.</v>
+
+00:39:10.020 --> 00:39:12.730
+<v Ariful Chowdhury>I'm just, you know, telling it in a row way.</v>
+
+00:39:13.960 --> 00:39:16.700
+<v Ariful Chowdhury>But but this can be done I guess.</v>
+
+00:39:19.940 --> 00:39:21.150
+<v Tarun Malik (C)>OK, but we need an.</v>
+
+00:39:22.090 --> 00:39:32.680
+<v Tarun Malik (C)>I've email at least the initialization for the to start the communication with them, at least informal email from from you.</v>
+
+00:39:32.690 --> 00:39:38.190
+<v Tarun Malik (C)>If you can send it to brother Talha and that PPP middle of then we can, you know, work out with them.</v>
+
+00:39:39.000 --> 00:39:40.410
+<v Ariful Chowdhury>OK, I'll do that.</v>
+
+00:39:40.620 --> 00:39:41.100
+<v Ariful Chowdhury>I'll do that.</v>
+
+00:39:42.590 --> 00:39:43.010
+<v Ariful Chowdhury>That's fine.</v>
+
+00:39:44.380 --> 00:39:45.050
+<v Ariful Chowdhury>OK.</v>
+
+00:39:45.090 --> 00:39:46.030
+<v Ariful Chowdhury>Shall we go back?</v>
+
+00:39:46.040 --> 00:39:58.690
+<v Ariful Chowdhury>Go to the third topic I I think we are keeping and wait Brother Ahmed to take us through the reporting plan or ALM static reports.</v>
+
+00:39:59.440 --> 00:40:00.430
+<v Ariful Chowdhury>What do you brother Ahmed?</v>
+
+00:40:06.860 --> 00:40:07.860
+<v Ahmet Enes Demirhan>Yeah.</v>
+
+00:40:14.090 --> 00:40:14.390
+<v Ariful Chowdhury>OK.</v>
+
+00:40:07.920 --> 00:40:26.930
+<v Ahmet Enes Demirhan>Well, there's most of the people were already in the other groups, so there's not much additional information, but the only information in on the the reporting side is that we've talked with the Amin, as Amin is trying to do a plan to complete the ALM static reports by September or August.</v>
+
+00:40:28.830 --> 00:41:23.070
+<v Ahmet Enes Demirhan>And for that, he, you know, he we went through for that he wanted from all from our side to complete all the templates and provided to him as soon as possible and and you know why am I and that's pretty much it from our side from an actionable update and the other updates are and the there's no other updates from that perspective that he will said he he he would be providing a new template soon for the timetable before he was trying to do the timeline with the old reports we've told them to use the new reports that we have provided them the to the the 20 reports that we provided them so yeah we expect as soon as the and and new timetable for 2222 provide us the other static reports they shall.</v>
+
+00:41:24.260 --> 00:41:24.870
+<v Ariful Chowdhury>So how?</v>
+
+00:41:28.750 --> 00:41:33.860
+<v Ahmet Enes Demirhan>3019 yeah, 19 one of them were gonna.</v>
+
+00:41:24.880 --> 00:41:42.290
+<v Ariful Chowdhury>How many reports in total are there in ALM static report OHH 20 so but but we have we have we have provided all the uh no seven I think templates right out of these 20 to move the team.</v>
+
+00:41:43.040 --> 00:41:46.780
+<v Ariful Chowdhury>Yeah, but it yeah, yeah.</v>
+
+00:41:40.590 --> 00:41:48.160
+<v Ahmet Enes Demirhan>Yeah, we've provided the the the exact number, I can't remember, but seven templates I think or no, we provide a second batch.</v>
+
+00:41:49.280 --> 00:41:51.300
+<v Ariful Chowdhury>Uh, we provide a second batch as well, OK.</v>
+
+00:41:49.600 --> 00:41:56.700
+<v Ahmet Enes Demirhan>And so if I have to check, let's see how many we've provided.</v>
+
+00:41:56.130 --> 00:41:57.340
+<v Ariful Chowdhury>But that's that's.</v>
+
+00:41:59.810 --> 00:41:59.990
+<v Ahmet Enes Demirhan>Yeah.</v>
+
+00:42:06.870 --> 00:42:07.360
+<v Ahmet Enes Demirhan>Yeah.</v>
+
+00:41:57.400 --> 00:42:09.740
+<v Ariful Chowdhury>Yeah, that's what the report development and BRDF all that but but the least I mean brother, I mean needs the least and then he will provide the planning right for how, how and what timeline everything.</v>
+
+00:42:07.410 --> 00:42:11.800
+<v Ahmet Enes Demirhan>Yeah, we already we we have already put a provided a list.</v>
+
+00:42:12.350 --> 00:42:12.650
+<v Ariful Chowdhury>OK.</v>
+
+00:42:18.510 --> 00:42:20.330
+<v Ariful Chowdhury>OK. Yeah.</v>
+
+00:42:11.890 --> 00:42:24.240
+<v Ahmet Enes Demirhan>I think they're confusion was that they were using the the old list from the the work order and now they've sort of changed it up to use the.</v>
+
+00:42:24.630 --> 00:42:25.750
+<v Ahmet Enes Demirhan>The thing that we provided.</v>
+
+00:42:26.830 --> 00:42:27.730
+<v Ariful Chowdhury>OK, OK.</v>
+
+00:42:34.450 --> 00:42:35.250
+<v Ariful Chowdhury>Template OK.</v>
+
+00:42:29.290 --> 00:42:37.250
+<v Ahmet Enes Demirhan>8910 we have provided them 11 templates, the the latest one templates, yeah.</v>
+
+00:42:38.360 --> 00:42:39.700
+<v Ariful Chowdhury>Alright, alright.</v>
+
+00:42:48.760 --> 00:42:48.890
+<v Ahmet Enes Demirhan>Yes.</v>
+
+00:42:56.560 --> 00:42:56.670
+<v Ahmet Enes Demirhan>Yes.</v>
+
+00:42:40.560 --> 00:42:59.210
+<v Ariful Chowdhury>Anyway, I think uh uh, in the next uh, Tuesday they will discuss appointment still with the FSD and maybe partly they they will also give us a or take us through the PRD for the report format that we shared with them anyway.</v>
+
+00:42:59.340 --> 00:42:59.740
+<v Ariful Chowdhury>That's fine.</v>
+
+00:43:01.560 --> 00:43:01.970
+<v Ariful Chowdhury>Alright.</v>
+
+00:43:01.980 --> 00:43:08.000
+<v Ariful Chowdhury>Is there any other comments or issues that colleagues or you want to discuss or raise?</v>
+
+00:43:17.400 --> 00:43:17.860
+<v Ariful Chowdhury>OK.</v>
+
+00:43:18.720 --> 00:43:20.820
+<v Ariful Chowdhury>If not, then we can conclude the meeting today.</v>
+
+00:43:21.770 --> 00:43:33.380
+<v Ariful Chowdhury>Thank you very much and your brothers for joining this meeting and hopefully inshallah, next week we'll meet with the Moody's team and of course with the uh, with our team internally.</v>
+
+00:43:33.490 --> 00:43:36.810
+<v Ariful Chowdhury>Internally. OK.</v>
+
+00:43:36.860 --> 00:43:37.790
+<v Ariful Chowdhury>Thank you very much.</v>
+
+00:43:38.100 --> 00:43:39.670
+<v Ariful Chowdhury>Then it's all I come, everyone.</v>
+
+00:43:40.370 --> 00:43:41.080
+<v Alfa Issa Goumandakoye>You can select.</v>
+
+00:43:44.890 --> 00:43:45.300
+<v Ahmet Enes Demirhan>But I could.</v>

@@ -1,0 +1,540 @@
+WEBVTT
+<v Ariful Chowdhury>Uh, no.</v>
+<v Ariful Chowdhury>I mean, we, we start with the FSD for the 4 reports.</v>
+<v Ariful Chowdhury>Where do we stand and whether the and I report a focal points have reviewed this FSD or I mean we can have we have some time also before the next meeting with Moodys to highlight if there is any issue related to FSD and then the swap valuation, how do we and and you know calculate the exposure in the in the system so that is something we need to discuss.</v>
+<v Ariful Chowdhury>And finally, of course, I think as Brother Waqar has guided and that brother Ahmed will will update us on the report planning for element static reports.</v>
+<v Ariful Chowdhury>So, shall we start with the FSD?</v>
+<v Ariful Chowdhury>Where do we stand in terms of the updated FSD that this team has shared with us?</v>
+<v Ariful Chowdhury>But the the room.</v>
+<v Ariful Chowdhury>Do you have any any comments on the if it's D?</v>
+<v Ariful Chowdhury>But we we need to review, I've further.</v>
+<v Ariful Chowdhury>Hello, brother.</v>
+<v Ariful Chowdhury>Tarun, are you there?</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Tarun Malik (C)>Hello, brother.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Ariful Chowdhury>Yeah.</v>
+<v Tarun Malik (C)>How are you?</v>
+<v Ariful Chowdhury>Yeah.</v>
+<v Ariful Chowdhury>No, I just wanted to.</v>
+<v Ariful Chowdhury>Yeah, fine.</v>
+<v Ariful Chowdhury>Thank you.</v>
+<v Tarun Malik (C)>Hang up.</v>
+<v Ariful Chowdhury>I just wanted to hear from you whether you have had the chance to go through the revised or updated FSD that Moodys team has shared after the meeting on Tuesday and maybe our our, you know, focal points for those reports also need to go through the FSD and see whether, I mean, of course that the technical aspects are, you know looked after by brother Tarun and brother I, Walker, but at least from the report perspective.</v>
+<v Ariful Chowdhury>It's here or during the meeting with Moody's team in next Tuesday.</v>
+<v Ariful Chowdhury>So brotherly.</v>
+<v Ariful Chowdhury>If you have any comments, you can.</v>
+<v Ariful Chowdhury>Tell us.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Tarun Malik (C)>OK, I did not check in detail, but I I have overviewed.</v>
+<v Ariful Chowdhury>Uh-huh.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Ariful Chowdhury>Yes, yes.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Tarun Malik (C)>I checked that there are, there are some comments in that brother, Arif and it's it's more in the structure now, more better now but it's still there are some some of the points need to work out which is not coming which is not coming properly.</v>
+<v Ariful Chowdhury>Fine.</v>
+<v Tarun Malik (C)>Specifically, I'm talking about the sections where the.</v>
+<v Tarun Malik (C)>Do you know the three layers of the report has been mentioned?</v>
+<v Ariful Chowdhury>Uh.</v>
+<v Tarun Malik (C)>That data layer, the intermediate transformation layer and the application layer where we can see the report.</v>
+<v Tarun Malik (C)>OK, the front end.</v>
+<v Ariful Chowdhury>Uh.</v>
+<v Tarun Malik (C)>So so this has to be structured little bit more proper way.</v>
+<v Tarun Malik (C)>As of now, it's not coming out.</v>
+<v Tarun Malik (C)>Basically all the reports will have these three layers, OK, all the reports category and the reports.</v>
+<v Tarun Malik (C)>So if it is a common data layer that has this, this needs to be, uh, you know, comes out like for example, I'm talking about the portfolio reports and there are three portfolio reports that have the requirements still now.</v>
+<v Ariful Chowdhury>Right.</v>
+<v Tarun Malik (C)>So for example, if they are taking the exposure and creating a single view from the data side, so that will be a single section in the data.</v>
+<v Tarun Malik (C)>But when it comes to an, you know the application layer, there are three parts of this.</v>
+<v Tarun Malik (C)>So all three parts should be, you know, segregated.</v>
+<v Ariful Chowdhury>Ohh.</v>
+<v Tarun Malik (C)>As of now, those type of segregation is not there.</v>
+<v Tarun Malik (C)>So segregation is not there.</v>
+<v Tarun Malik (C)>It will be difficult for the business to understand that what is the end result is coming up and even for the developer.</v>
+<v Tarun Malik (C)>So because this document as of now, what our understanding that you know they have mixed the bid part here, OK and uh they are keeping their understanding of the business requirement that they got from Brother Nizar and brother Cisse and you and also they are adding there as per their understanding the part that has to be worked as a functional and technically for the for the reports.</v>
+<v Tarun Malik (C)>OK, so it has to be structured more proper way little bit.</v>
+<v Tarun Malik (C)>It's mostly structure, but little bit more work needs to be done.</v>
+<v Tarun Malik (C)>OK.</v>
+<v Tarun Malik (C)>And second thing is there are more things should come since assumptions and constraints that is not there.</v>
+<v Tarun Malik (C)>So we will work with them.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Ariful Chowdhury>Yes.</v>
+<v Tarun Malik (C)>Third thing is that there are the data issues raised from the from mega.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Tarun Malik (C)>Today.</v>
+<v Ariful Chowdhury>Yeah.</v>
+<v Tarun Malik (C)>So I was.</v>
+<v Ariful Chowdhury>Umm.</v>
+<v Tarun Malik (C)>I was checking that and that might need a, you know, help from the business side because some of them I have the answer and some of them I need the help from the business side.</v>
+<v Tarun Malik (C)>What exactly you know in the report we are looking for so we can reply them according.</v>
+<v Ariful Chowdhury>OK, so in that case, brother.</v>
+<v Ariful Chowdhury>Tarun I I I think if you can engage the report focal point, OK, because I think these are mainly related to uh the terminology and which specific.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Ariful Chowdhury>Information to be used so maybe maybe Brother Nizar and Brother Ahmed.</v>
+<v Ariful Chowdhury>The can can help out in that respect.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Tarun Malik (C)>OK.</v>
+<v Ariful Chowdhury>So whenever they have the meeting, I think if you can request the meeting and they report for that point to join so that they can help us, you know.</v>
+<v Tarun Malik (C)>So one one more thing I want to, you know, ask in this meeting there are two, three points that they raised as a part of a data which is important to answer.</v>
+<v Tarun Malik (C)>One is that they have raised a part of SDR basket weight.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Tarun Malik (C)>So for example, so we are not sending the you know basket where ideally it was supposed to be calculated from the Moody side is my understanding is right that is recording to the ALM balance sheet rather see say if you can help.</v>
+<v Ariful Chowdhury>That brother?</v>
+<v Ariful Chowdhury>Yeah, brother, I will cut this is same.</v>
+<v Abdoul Qadri Ceesay>Could you kindly restate the question please?</v>
+<v Tarun Malik (C)>Yeah, I'm asking about the port.</v>
+<v Tarun Malik (C)>This is regarding to the ALM balance sheet by currency report.</v>
+<v Abdoul Qadri Ceesay>Uh-huh.</v>
+<v Tarun Malik (C)>So there is an SDR basket right there, right?</v>
+<v Abdoul Qadri Ceesay>That's right.</v>
+<v Abdoul Qadri Ceesay>That's right, yes.</v>
+<v Tarun Malik (C)>So the basket this was supposed to be calculated by the Moody's, right?</v>
+<v Abdoul Qadri Ceesay>Uh, yeah, the report has a calculation that utilizes the SDR neutral rates, yes.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Tarun Malik (C)>So what is?</v>
+<v Tarun Malik (C)>What is required from our side here?</v>
+<v Abdoul Qadri Ceesay>Nothing.</v>
+<v Tarun Malik (C)>From the nothing.</v>
+<v Tarun Malik (C)>Right.</v>
+<v Tarun Malik (C)>OK.</v>
+<v Abdoul Qadri Ceesay>No.</v>
+<v Tarun Malik (C)>That's what my understanding was.</v>
+<v Tarun Malik (C)>Also they they need to calculate as per the calculation provided right?</v>
+<v Abdoul Qadri Ceesay>Exactly. Exactly.</v>
+<v Tarun Malik (C)>So if I share my screen.</v>
+<v Tarun Malik (C)>These are the for example.</v>
+<v Tarun Malik (C)>These are the weights.</v>
+<v Tarun Malik (C)>OK, so based on that, uh, weights, they need to, you know, they need to align with brother Nilesh and calculate this in the report itself for the.</v>
+<v Tarun Malik (C)>Yeah. OK.</v>
+<v Tarun Malik (C)>Hey.</v>
+<v Abdoul Qadri Ceesay>But correct, we have already on this particular report Tarun in on this particular report, we have also.</v>
+<v Abdoul Qadri Ceesay>Uh.</v>
+<v Abdoul Qadri Ceesay>Had a session with the with Moody's.</v>
+<v Tarun Malik (C)>Yes.</v>
+<v Abdoul Qadri Ceesay>Umm, that basically discussed how this this is supposed to be done, so I think that whole that also has been transferred to them because at the outset of this reporting engagement the gentleman was there.</v>
+<v Abdoul Qadri Ceesay>I think he's no more with them.</v>
+<v Abdoul Qadri Ceesay>I forgot his name.</v>
+<v Tarun Malik (C)>The dia.</v>
+<v Abdoul Qadri Ceesay>He's no more with the acedia, correct.</v>
+<v Abdoul Qadri Ceesay>Yes, siddaiah so.</v>
+<v Abdoul Qadri Ceesay>So I think they they quite understand as far as I know the clear with what needs to happen here.</v>
+<v Tarun Malik (C)>OK.</v>
+<v Tarun Malik (C)>And he's there asking the balance sheet items also they need the mysis ID, basically these are not in my SIS.</v>
+<v Abdoul Qadri Ceesay>Umm.</v>
+<v Tarun Malik (C)>Yes, investment in associate, we can give the sector which uh, you know, gives the investment in associate.</v>
+<v Tarun Malik (C)>We have a sector in mice, but basically these are, you know, balance sheet item equity we can provide but paid up capital deserves net income and derivatives, net derivatives, derivatives, net.</v>
+<v Tarun Malik (C)>What is this, brother?</v>
+<v Abdoul Qadri Ceesay>Which one?</v>
+<v Tarun Malik (C)>She say even I did not get his that the 11 number item here.</v>
+<v Tarun Malik (C)>What is that which I did not get?</v>
+<v Abdoul Qadri Ceesay>That this is the the swaps net net value you have the asset.</v>
+<v Tarun Malik (C)>And this is a daily meetings.</v>
+<v Abdoul Qadri Ceesay>The possibility.</v>
+<v Tarun Malik (C)>OK. OK.</v>
+<v Abdoul Qadri Ceesay>Yeah, yeah, this works.</v>
+<v Abdoul Qadri Ceesay>Mainly mainly swaps the asset value net the the asset side net of the liability side.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Ariful Chowdhury>So this is essentially the exposure, right?</v>
+<v Abdoul Qadri Ceesay>Yeah, that's right. Yes.</v>
+<v Ariful Chowdhury>There was this year and that we have OK, but this is aggregated but for the modist requirement.</v>
+<v Abdoul Qadri Ceesay>It is aggregated, that's correct.</v>
+<v Ariful Chowdhury>Yeah, yeah, yeah.</v>
+<v Abdoul Qadri Ceesay>You know.</v>
+<v Tarun Malik (C)>But that is a aggregated one, so this should means this should come from where this should come from.</v>
+<v Tarun Malik (C)>The means this they have to calculate, right?</v>
+<v Tarun Malik (C)>The data that we.</v>
+<v Abdoul Qadri Ceesay>Yeah, but then we should have.</v>
+<v Abdoul Qadri Ceesay>We should have the swap data, yes, as long as we have all the info, yeah.</v>
+<v Abdoul Qadri Ceesay>OK.</v>
+<v Tarun Malik (C)>No, no, we we have provided the stripe data in the swap data.</v>
+<v Tarun Malik (C)>What is the in the swap table?</v>
+<v Tarun Malik (C)>They asked us.</v>
+<v Tarun Malik (C)>We have provided that, but the you know the the Mary did not happen between the Nilesh and the reports. Guy.</v>
+<v Tarun Malik (C)>OK, so there is a delta which is required for the ALM which is required for the report so that that gap is there.</v>
+<v Tarun Malik (C)>That's why they might be raising it.</v>
+<v Abdoul Qadri Ceesay>Right.</v>
+<v Tarun Malik (C)>OK, so they might need 1/2 item extra, but if they will not tell us which you know, we'll then map.</v>
+<v Tarun Malik (C)>We can't help here, so these type of issues, probably the purpose of highlighting this is that you know this type of things, there is an, you know additional thing is required which is a which we see as a gap still between the you know although they are coordinating now but still we find there is a gap between the between the Moody's team and the ENY team by looking at this example.</v>
+<v Tarun Malik (C)>At this example.</v>
+<v Tarun Malik (C)>So if we like it's and for me it will be easy.</v>
+<v Tarun Malik (C)>I I will write it that allies with the more lies with the Moodys team, but they have to really work out with them.</v>
+<v Tarun Malik (C)>We we can't help here for any of these perspective, we can't help because all of them what is asked from the Moody's team is is structure is like that that Moody's team ask us that in this table I need this data items go and fetch from your source.</v>
+<v Tarun Malik (C)>Your source.</v>
+<v Tarun Malik (C)>So find out these are the description of my target items.</v>
+<v Tarun Malik (C)>Go and find out in your source and give it to me.</v>
+<v Tarun Malik (C)>So we we find if he doesn't get, we get a business support transform, validate everything we run and give to them.</v>
+<v Tarun Malik (C)>Now they if they will not consider the reporting perspective or reporting requirement item and if they will not, you know ask US or provide us the you know the target columns and it should go where we can't tell.</v>
+<v Tarun Malik (C)>So basically they need to 1st lies with the Moody's team and then from that Channel properly they can come with the you know the target tables and the item.</v>
+<v Tarun Malik (C)>Item then we can help, yeah.</v>
+<v >Steve.</v>
+<v Tarun Malik (C)>Similarly for, for example this WM here last meeting they have talked us about WM in the disbursement model already.</v>
+<v Tarun Malik (C)>They have created in their system this WM OK.</v>
+<v Tarun Malik (C)>So so this one the you know this this the weight of the the is the weight.</v>
+<v Tarun Malik (C)>So this weights are already there.</v>
+<v Tarun Malik (C)>And yeah, and even for the operation ID we have mapping provided we have already provided the mapping to them is a contract ID.</v>
+<v Tarun Malik (C)>So if Moodys team is not helping them, we can't help them also.</v>
+<v Ariful Chowdhury>Umm.</v>
+<v Abdoul Qadri Ceesay>This was this was one of the reasons I, you know, remember, I've really been insisting of, you know, on on, on Moody's team working very closely in highly integrated manner with the with the UI team because you know issues like this would continue to come if we do not you know ensure that.</v>
+<v Abdoul Qadri Ceesay>That so you know that the line of communication or clarification first call or first point of clarification is the Moody steam not ISDB team you know?</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Ariful Chowdhury>You know.</v>
+<v Abdoul Qadri Ceesay>The more we try to enforce that, the better we we we get the Moodys team to to really work very closely with the with with the UI team especially our report.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Ariful Chowdhury>Yeah, absolutely.</v>
+<v Ariful Chowdhury>Brother and sister, I think we we discussed this with Moodys team and you NY team right.</v>
+<v Tarun Malik (C)>I have.</v>
+<v Ariful Chowdhury>I think 22 meetings two weeks ago.</v>
+<v Ariful Chowdhury>Uh, I'm not sure whether we need to discuss it at at a higher level.</v>
+<v Ariful Chowdhury>Uh, maybe I will.</v>
+<v Ariful Chowdhury>I'll I'll ask Brother Walker and brother Atiq to look into this matter that you know, they need more coordination. Where?</v>
+<v Ariful Chowdhury>I mean in instances some instances we have provided all the information to move these team and then why should take from them?</v>
+<v Ariful Chowdhury>I mean, instead of coming to us, if we we don't share something, then of course we will be in a position to give them right.</v>
+<v Ariful Chowdhury>But we should not give.</v>
+<v Ariful Chowdhury>I'm in work on on on both sides.</v>
+<v Ariful Chowdhury>I mean for for both of them it will be really.</v>
+<v Tarun Malik (C)>Would be.</v>
+<v Ariful Chowdhury>Uh, I mean, of course, challenging and and time consuming.</v>
+<v Ariful Chowdhury>Yeah.</v>
+<v Tarun Malik (C)>Yeah, it will not be organized even even if somebody tell me.</v>
+<v Tarun Malik (C)>Go bring the, you know waited average matrix.</v>
+<v Tarun Malik (C)>I I know that you know this is already done.</v>
+<v Tarun Malik (C)>OK.</v>
+<v Tarun Malik (C)>And we have a.</v>
+<v Tarun Malik (C)>This brother Amin, has already taken it as a part of it disbursement model, and he's he's on the reporting track, so ideally he should be helping them.</v>
+<v Ariful Chowdhury>Only one.</v>
+<v Ariful Chowdhury>Uh-huh.</v>
+<v Tarun Malik (C)>So there is an, you know, proper communication required this we have discussed with them like a two days before in the meeting and they send in that today data report that he they you know please confirm the field names and table.</v>
+<v Ariful Chowdhury>Umm.</v>
+<v Tarun Malik (C)>So just to if if we need to confirm then you know the what Moody's team is means they are the main spokesperson as a communicated to them.</v>
+<v Tarun Malik (C)>Them so they have to.</v>
+<v Tarun Malik (C)>They have to tell, right?</v>
+<v Tarun Malik (C)>Any help huh?</v>
+<v Ariful Chowdhury>Alright, I think I'll, I'll, I'll discuss that with the no a little better work around the article on how to raise it to the maybe higher level or to have you know when whenever they have meetings on the project status and they should highlight this point.</v>
+<v Ariful Chowdhury>So I will, I will ask them.</v>
+<v Tarun Malik (C)>Uh, regarding this the limit data.</v>
+<v Tarun Malik (C)>OK.</v>
+<v Tarun Malik (C)>So we are here looking for a compliance data, right?</v>
+<v Tarun Malik (C)>OK.</v>
+<v Ariful Chowdhury>Yes, this is for the Treasury, right, Treasury portfolio.</v>
+<v Tarun Malik (C)>Yeah, yeah, this is a Treasury limit portfolio too.</v>
+<v Ariful Chowdhury>Yeah, yeah.</v>
+<v Tarun Malik (C)>OK, so as of now only some of the data has sent so this is again a gap is a is a reporting gap that has to be come from them to the Moodys and then to us.</v>
+<v Ariful Chowdhury>Umm.</v>
+<v Tarun Malik (C)>OK, so this limit approved limit exception per limit, so we need to send these uh, you know, the the counterparty limits and all those through the through through the part of an entity.</v>
+<v Tarun Malik (C)>OK, for each entity we need to send them, but we are not aware about which field and what.</v>
+<v Tarun Malik (C)>So this has to be Moodys has to send to Moodys has to tell us in a if you see the project plan under the Data Mart that there is a specific part the gaps related to a you know on reporting, OK data gaps recording reported to a related to a reporting.</v>
+<v Tarun Malik (C)>So this goes in that plan, that part of task.</v>
+<v Tarun Malik (C)>So it's still, you know if if the Moodys will not work out this, it will be difficult for us to do that because they need to tell us which field where they want to take it, yes.</v>
+<v Tarun Malik (C)>So which which field we need to, you know send this date if he doesn't have that fields from the target we can't send it because once they will provide from the target we need to, you know bring in that a part of the ETL we need to check in the source we need to check the data types, transformations everything some time it has to group by some has to join.</v>
+<v Tarun Malik (C)>So after doing all permutation combination we need to send that.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Tarun Malik (C)>So it has not initiated, so we can't help like this.</v>
+<v Tarun Malik (C)>No, they.</v>
+<v Ariful Chowdhury>You know, are these issues coming out of your recent meeting on the data gaps we?</v>
+<v Tarun Malik (C)>No, I I didn't have any meeting on data gaps.</v>
+<v Ariful Chowdhury>Uh.</v>
+<v Tarun Malik (C)>They have just sent the data points with three today only.</v>
+<v Ariful Chowdhury>I mean, yeah, yeah.</v>
+<v Ariful Chowdhury>Data points?</v>
+<v Ariful Chowdhury>Or did issues so OK.</v>
+<v Ariful Chowdhury>No.</v>
+<v Tarun Malik (C)>Yes, so so so basically that you know this looks like it's still they are not In Sync with the Moody stream and uh they the guys need to understand the structure of it, it will not work out like this because unnecessary we are getting a lot of you know requirement which which we are not responsible for as of now.</v>
+<v Tarun Malik (C)>OK, so it is important the proper structure and process to follow here, yeah.</v>
+<v Ariful Chowdhury>I think we need to again raise this in the meeting next meeting and then of course, true.</v>
+<v Ariful Chowdhury>Brother Waqar and brother Atiq and to you know, discuss it at a higher level with Moodys team.</v>
+<v Ariful Chowdhury>I don't know, Brother Abdulkadir.</v>
+<v Ariful Chowdhury>Sister, do you have any comments on this?</v>
+<v Ariful Chowdhury>Or do you have any other approach?</v>
+<v Ariful Chowdhury>Uh, no, she said.</v>
+<v Ariful Chowdhury>Ohh go.</v>
+<v Ariful Chowdhury>No, no, no, no.</v>
+<v Abdoul Qadri Ceesay>Uh, sorry brother Arif, I I got distracted by an urgent communication from Europe, so I didn't get your last your last last.</v>
+<v Ariful Chowdhury>What?</v>
+<v Ariful Chowdhury>What?</v>
+<v Ariful Chowdhury>You know what I was saying or referring to is that we will, we will discuss this in our next meeting with Moody's team.</v>
+<v Ariful Chowdhury>Team uh.</v>
+<v Ariful Chowdhury>The the You know requirement or importance of.</v>
+<v Ariful Chowdhury>Communication between Moodys team and INY team in terms of data and whatever. We we shared with Moody 's team, so that those should be available to ENY through internal communication between them instead of you know, sending us.</v>
+<v Ariful Chowdhury>You know, sending us the same request from NY team and also through brother Atiq and brother worker.</v>
+<v Ariful Chowdhury>We will will will raise this to their higher level.</v>
+<v Ariful Chowdhury>For you know to to, to bring more ordination among a the their their teams.</v>
+<v Ariful Chowdhury>I mean between Moodys and NY.</v>
+<v Ariful Chowdhury>So all I mean I I was just asking you whether you think or you have any other comments or uh, I mean guidance on this?</v>
+<v Abdoul Qadri Ceesay>And no, actually I would say given that we have already communicated this a few times and we have a as you probably aware, we have consolidated the data, might track with the ALM track, right.</v>
+<v Abdoul Qadri Ceesay>I mean, being the focal point for Data Mart and reporting is also in the same place.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Abdoul Qadri Ceesay>So we're seeing a little bit of that coordination enforced through this structure that we have put in place.</v>
+<v Abdoul Qadri Ceesay>However, I agree that we should still get Brother Azeem and Atiq uh, if possible, to reinforce this message.</v>
+<v Ariful Chowdhury>Uh.</v>
+<v Abdoul Qadri Ceesay>Maybe not necessarily.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Abdoul Qadri Ceesay>Take it for the hire, because I think they have been informed, informed, uh fairly, you know rigorously in tabs and from the last.</v>
+<v Abdoul Qadri Ceesay>I think during the last two to three weeks on the need to make sure that this coordinated approach is, is, is is there between the the Moody's team and the EY team.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Ariful Chowdhury>OK, well I'm taken.</v>
+<v Abdoul Qadri Ceesay>Yeah.</v>
+<v Ariful Chowdhury>I think we will, we will try to reinforce our views for them to coordinate more deeply and and and and we will use the regular channel.</v>
+<v Ariful Chowdhury>I mean, like our regular meetings with Moody's team and also the meetings that I think other tracks also have with with Moody's team, so will do that.</v>
+<v Tarun Malik (C)>Yeah, yeah, I'm good.</v>
+<v Ariful Chowdhury>Is that OK, brother Tarun or you have any further comments?</v>
+<v Ariful Chowdhury>OK.</v>
+<v Tarun Malik (C)>No, no, it's it's OK.</v>
+<v Tarun Malik (C)>It's OK.</v>
+<v Ariful Chowdhury>OK, that's fine.</v>
+<v Ariful Chowdhury>So let's let's come to the second point or second agenda, which is the swap exposure.</v>
+<v Ariful Chowdhury>So I mean, what do we do about the methodology and calculation of a swap exposure in the system?</v>
+<v Ariful Chowdhury>Because I think we need to give them, it is on our part how, uh or what?</v>
+<v Ariful Chowdhury>What methodology should be adopted to calculate the exposure swap exposure?</v>
+<v Ariful Chowdhury>So brother Jishan and brother Abdulkadir say you are.</v>
+<v Ariful Chowdhury>Do you have any guidance on this?</v>
+<v Ariful Chowdhury>OK.</v>
+<v Abdoul Qadri Ceesay>But brother, if this question came up in an earlier meeting as well, first of all, I think as the custodian of the report needs to make it clear to us, uh, what kind of swap exposure is required.</v>
+<v Abdoul Qadri Ceesay>You know they have nominal values, right?</v>
+<v Ariful Chowdhury>Uh-huh.</v>
+<v Abdoul Qadri Ceesay>You could have market values.</v>
+<v Abdoul Qadri Ceesay>You could say we want just the net exposure of inflows and outflows or the receive and pay legs from all the swaps when we need to know what the construct of this particular report is requesting for, right?</v>
+<v Abdoul Qadri Ceesay>Because depending on the type of analysis you do, your approach to getting the exposure may differ right?</v>
+<v Ariful Chowdhury>Umm.</v>
+<v Abdoul Qadri Ceesay>Typically I I I work with the getting the the net derivatives position I as part of my exposure calculations that I do, but I don't know what you know this particular portfolio report or the exposure report that that you do is looking at that.</v>
+<v Abdoul Qadri Ceesay>Maybe we need to be informed by the business behind the report.</v>
+<v Ariful Chowdhury>Yeah.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Yep.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah.</v>
+<v Ariful Chowdhury>Brother Nizar, a brother Jishan, do you have any the comments on this because I I think and I mean normally we don't take into consideration the swap exposure, but I I think this is a valid point that we need to from now on we need to account the swap exposure for our API in into our exposure and and you know headroom calculation so but for that we need to give them the I mean methodology or the calculation you know and how how we we calculate the net exposure for each of the transaction or for each of the FI.</v>
+<v Ariful Chowdhury>So just presentation.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah, just to add to brother, if what you just said brothers to say, it's a for in any case in any use case I see we would require the market value shop anyways.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>It can be a counterparty limit compliance monitoring.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>So for banks swap market where you need to be accounted for, it can be PVOD.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>One analysis for ALM, we need the market value of swap so that we can when we shock we realize that OK if our swap is hedging holding its hedge or not.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>If we are looking after liquidity side, obviously we need cash flows, net cash flows, not just nominal.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>How many does not make any sense?</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>So what I'm seeing is in most of the cases I see we need to provide them the market value rather than any pay or receive like nominal or national.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>It does not make any sense to provide that what I think should be the course of action.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Uh.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Swap valuation can be done in my SIS, I think there's a functionality to do that.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>I'm not sure whether we it's a good good option to do it in a Moody solution itself.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>The the the solution can be do it in myself and send to, ERM the market value for swap.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>This is one way I was thinking, but we need to have market value not just a nominal.</v>
+<v Abdoul Qadri Ceesay>Absolutely on that that that definitely should be the case.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>And also it's not only, uh, dependent on the report side because the, the, the, the, the, the reporting team may not know this, it's mainly more market risk dimension rather than the the reporting dimension.</v>
+<v Ariful Chowdhury>Yeah.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Uh.</v>
+<v Ariful Chowdhury>So brother Jashan, who who will do this in the Misys, for example, say if it is not done in the RFO to stem save him.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Usually usually.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>I mean it's it's it's it's, it's this topic going topic is going outside the ERM context.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>But in my understanding of the C can correct me the the tragedy book valuation is responsibility of middle office, so they need to set up the market valuation for swaps and if they do it, the market value will be calculated.</v>
+<v Ariful Chowdhury>Yeah.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>In my SIS and we we can just integrate that market value to ERM database and I think that the bathroom is well aware of this this process.</v>
+<v Tarun Malik (C)>But.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Why you laughing?</v>
+<v Tarun Malik (C)>OK.</v>
+<v Tarun Malik (C)>So see see because you are, you know, throwing the new requirement and it's from the years and years.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>No, it's not.</v>
+<v Tarun Malik (C)>It's under Bloomberg, now.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>It's not a new requirement, whether they're.</v>
+<v Tarun Malik (C)>We we are. We are.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Abdoul Qadri Ceesay>I've listed.</v>
+<v Tarun Malik (C)>See in in my sees.</v>
+<v Tarun Malik (C)>As of now you know, just just to give you the column is built within nominal plus accrued OK with some perspective of some business user requirement.</v>
+<v Tarun Malik (C)>OK.</v>
+<v Tarun Malik (C)>They they take the nominal plus the accrued amount as a part of her exposure of the uh.</v>
+<v Tarun Malik (C)>Swept.</v>
+<v Tarun Malik (C)>OK, that might not work with the market.</v>
+<v Tarun Malik (C)>Risky, but that's that's how it is built in the myses as of now.</v>
+<v Tarun Malik (C)>But I'm not sure whether you can take it or not.</v>
+<v Tarun Malik (C)>The second problem is that you know in coming time maybe the this will go in a you know valuation part with the corporate middle office from PPP Middle Office.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Treasury.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>No.</v>
+<v Tarun Malik (C)>So there is a.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>No treasure, no.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>No Treasury valuation will never come to cover middle office.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Only funds will end.</v>
+<v Abdoul Qadri Ceesay>Which teacher?</v>
+<v Tarun Malik (C)>OK, OK.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Equities will go to couple middle office, so it's a total yeah and also.</v>
+<v Tarun Malik (C)>So as of now it it it's with brother, you know they they does on the Bloomberg they send the things to the middle office FPPA middle office.</v>
+<v Tarun Malik (C)>They check on the Bloomberg.</v>
+<v Tarun Malik (C)>OK, so everything is fine.</v>
+<v Tarun Malik (C)>So it's a valuation as of now from the Bloomberg and the Excel sheet and mostly so this has to give us come on the ground.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah.</v>
+<v Tarun Malik (C)>I'm not sure how it will happen and how we will.</v>
+<v Tarun Malik (C)>You know the dates we are looking for, how we will synchronize that.</v>
+<v Tarun Malik (C)>That's a that's a big challenge.</v>
+<v Tarun Malik (C)>That's why I was thinking of what can be done here.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Because the because the.</v>
+<v Tarun Malik (C)>So if we have some formula, if you have some formula specific as brothers, he said.</v>
+<v Tarun Malik (C)>That what is the perspective we are looking at if we have some formula we can build a, you know custom column and try to see that because we have only two swaps in the system as of now open.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>The perspective is the same thing.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Uh.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>The counterparty limit which brother is argues for the banks.</v>
+<v Ariful Chowdhury>Uh.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>It clearly says that we need to capture sukuk, money market and swap exposures.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>It's clearly says this and so.</v>
+<v Tarun Malik (C)>And no, I'm.</v>
+<v Tarun Malik (C)>I'm saying that the calculation of the exposure, what columns we need to like exact if you can give us the formula of calculating that this is what I'm looking for.</v>
+<v Tarun Malik (C)>OK.</v>
+<v Tarun Malik (C)>With with respect to the system.</v>
+<v Tarun Malik (C)>So then we can build that in the system and try to do that with the with the help of MD.</v>
+<v Tarun Malik (C)>But if it doesn't have anything, yeah.</v>
+<v Ariful Chowdhury>Brother, the other person you're talking about swap valuation, right?</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Tarun Malik (C)>Yeah, swaps.</v>
+<v Tarun Malik (C)>Yes.</v>
+<v Tarun Malik (C)>Yes, only only serve.</v>
+<v Ariful Chowdhury>I mean calculation for swap valuation not for because the exposure is pretty much clear.</v>
+<v Tarun Malik (C)>And.</v>
+<v Ariful Chowdhury>It is very stiff, I mean straightforward, but the complications arising due to the swap.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Tarun Malik (C)>Yeah. Yeah, yeah.</v>
+<v Ariful Chowdhury>Valuation, I mean we we are not, we don't have any specific formula.</v>
+<v Tarun Malik (C)>Yes, yes, yes, yes, order.</v>
+<v Ariful Chowdhury>Yeah.</v>
+<v Tarun Malik (C)>Because the market value column does not give anything here because it's, it will give you a negative amount for the shops in the system, yeah.</v>
+<v Ariful Chowdhury>So how how do we solve this problem?</v>
+<v Ariful Chowdhury>Because we need to have the swap.</v>
+<v Ariful Chowdhury>Uh, exposure by if I.</v>
+<v Ariful Chowdhury>So if we have now two swaps for two financial institutions, then in the exposure calculation we need to include them.</v>
+<v Ariful Chowdhury>Now, I mean, obviously we cannot say Moody's team, I mean to to bring a swap exposure from their own calculation.</v>
+<v Ariful Chowdhury>Calculation.</v>
+<v Ariful Chowdhury>I mean, we have to give our own own methodology, our own calculation, uh.</v>
+<v Ariful Chowdhury>Uh.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>One dirty way could be if we can manually take valuation, as the Tarun said, Middle Office does it from Bloomberg.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>We manually take the value and enter it, so somehow month end to VRM of two Excel file we just loaded.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>That is the one dirty solution I can think of.</v>
+<v Ariful Chowdhury>But we cannot do it to my SIS.</v>
+<v Ariful Chowdhury>So that you know.</v>
+<v Ariful Chowdhury>You're in system because it is integrated with the masses, right?</v>
+<v Ariful Chowdhury>So it can take from my SIS.</v>
+<v Ariful Chowdhury>Is it possible?</v>
+<v Tarun Malik (C)>The new discuss with Brother Talon that he's a these guys are working more on this so if you can discuss with it.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Ariful Chowdhury>Other Talha is not here today but yeah.</v>
+<v Tarun Malik (C)>So if you can discuss with him, then we can, you know, work out and and the Treasury Front office also, who works on the swap so.</v>
+<v Tarun Malik (C)>There these guys has to answer 1st and then we can we can think of, yeah.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>This is a very important comment.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>But then we need to ask tragedy what exactly they consider swap exposure.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>That should be accounted for the limit monitoring.</v>
+<v Tarun Malik (C)>Yeah.</v>
+<v Ariful Chowdhury>And we have Brother Alpha here.</v>
+<v Ariful Chowdhury>Any any comments from Brother Alpha on this topic?</v>
+<v Alfa Issa Goumandakoye>So my little.</v>
+<v Tarun Malik (C)>Alam.</v>
+<v Ariful Chowdhury>Well, it was Alam.</v>
+<v Alfa Issa Goumandakoye>Actually, at the beginning when you talk about the swap.</v>
+<v Alfa Issa Goumandakoye>So I just refer to Captain marketing team to ask them about this one valuation from the treasure they said.</v>
+<v Alfa Issa Goumandakoye>So what I the feedback I got from the team is that for the past two years we had this external auditor who has taken this function from Treasury and he said that Treasury should not be involved in their valuation of the stock position or the soft transaction.</v>
+<v Alfa Issa Goumandakoye>So for the past year, the price of being a transferred over to to the PM in the office, who is working?</v>
+<v Ariful Chowdhury>No.</v>
+<v Alfa Issa Goumandakoye>Who is doing this activity so it is a?</v>
+<v Alfa Issa Goumandakoye>It said it's a.</v>
+<v Alfa Issa Goumandakoye>It's an audit commendation, not for the business unit, not to be involved in the.</v>
+<v Alfa Issa Goumandakoye>Work valuation.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Then I think that the the Alfa you misunderstood, you're not asking you to do valuation.</v>
+<v Alfa Issa Goumandakoye>But.</v>
+<v Alfa Issa Goumandakoye>Yes.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>We are asking uh, when we talk about exposure to swap to treasury.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Consider do Treasury consider net market value as a swap exposure or nominal value as stop exposure.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>What is the market convention?</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>You're closer to the market, right?</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Exactly.</v>
+<v Alfa Issa Goumandakoye>OK, I think the Market convention is the market right in market value. Of course.</v>
+<v Alfa Issa Goumandakoye>Yeah.</v>
+<v Alfa Issa Goumandakoye>Yeah.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah, yeah, this is the only thing I think we are hoping.</v>
+<v Alfa Issa Goumandakoye>No, I'm just, I think this is a market practice.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>Yeah.</v>
+<v Alfa Issa Goumandakoye>So if this we have to go by the market practice, yes.</v>
+<v Alfa Issa Goumandakoye>If it is a market.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>That, yeah.</v>
+<v Alfa Issa Goumandakoye>OK.</v>
+<v Ariful Chowdhury>So, umm, we need to then maybe discuss with our.</v>
+<v Ariful Chowdhury>It could be a middle of his team.</v>
+<v Ariful Chowdhury>How do they care?</v>
+<v Ariful Chowdhury>I mean calculate and where do they store this valuation?</v>
+<v Ariful Chowdhury>I'm I'm not sure because I I tried to call again Talha but maybe he's on leave and he's away.</v>
+<v Alfa Issa Goumandakoye>Things on these things on me.</v>
+<v Ariful Chowdhury>Yeah.</v>
+<v Ariful Chowdhury>So. So maybe.</v>
+<v Ariful Chowdhury>Maybe.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Ariful Chowdhury>I'll I'll also discuss or take up this issue with the middle office and see what what can be done otherwise.</v>
+<v Ariful Chowdhury>I mean, we have to have some solution right to.</v>
+<v Alfa Issa Goumandakoye>We in you know, if I may recall, no, this book called me, we are having some issues on the occupational exposure and then we're not understanding why they're resist exposure serving.</v>
+<v Alfa Issa Goumandakoye>Then we can go up and down for this Standard Chartered and later on we found out that it is the swap exposure that has is being added to the exposure and then we're always breaking.</v>
+<v Alfa Issa Goumandakoye>I think they don't take the nominal exposure.</v>
+<v Alfa Issa Goumandakoye>They take the markets market exposure, that's what they expect from the middle office.</v>
+<v Alfa Issa Goumandakoye>I'm not sure but this my my understanding of what they're doing.</v>
+<v Ariful Chowdhury>OK, alright.</v>
+<v Ariful Chowdhury>I think we need to discuss this further, but maybe in the next meeting with Moody 's team. We I mean, if we can have some solution before that, it would be great, but brother Jishan.</v>
+<v Ariful Chowdhury>Maybe if you can kindly, I mean see it internally also with with with Brother Talha if you can and I mean get in touch with him.</v>
+<v Alfa Issa Goumandakoye>License.</v>
+<v Ariful Chowdhury>And see how how they are doing it and how they are storing it in the in the system if, if, if, if at all.</v>
+<v Ariful Chowdhury>And then maybe we can have, yeah.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>No, no, I I already know.</v>
+<v Ariful Chowdhury>But they're not.</v>
+<v Zeshan Ahmed Saghiruddin Ahmed>They they're not storing anything, they just run it in a Bloomberg and they send the create an Excel and they send it to FCD directly through Excel.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Alfa Issa Goumandakoye>And so they don't.</v>
+<v Ariful Chowdhury>I mean where?</v>
+<v Ariful Chowdhury>Where? Where?</v>
+<v Alfa Issa Goumandakoye>You have dated in license.</v>
+<v Ariful Chowdhury>Yeah, whether this is in, in a monthly basis and whether it can be stored in, in, in my SIS, so that you know there we can create any sort of link between my SIS and other four database.</v>
+<v Ariful Chowdhury>I think let's first, I mean, uh, see how whether whether there is any functionality in the mice is 2 stories.</v>
+<v Ariful Chowdhury>OK. I I.</v>
+<v Ariful Chowdhury>Brother Tarun can, can you check this aspect?</v>
+<v Ariful Chowdhury>Whether for example, if if we for I mean if if PM, middle office does this on a monthly basis and they send it to the FCD on Excel sheet.</v>
+<v Ariful Chowdhury>So there, there might be some way to and I mean it's stored it in mices so that they they this valuation can be used by RFO.</v>
+<v Ariful Chowdhury>I'm not sure.</v>
+<v Tarun Malik (C)>Speaking about.</v>
+<v Ariful Chowdhury>I'm just, you know, telling it in a row way.</v>
+<v Ariful Chowdhury>But but this can be done I guess.</v>
+<v Tarun Malik (C)>OK, but we need an.</v>
+<v Tarun Malik (C)>I've email at least the initialization for the to start the communication with them, at least informal email from from you.</v>
+<v Tarun Malik (C)>If you can send it to brother Talha and that PPP middle of then we can, you know, work out with them.</v>
+<v Ariful Chowdhury>OK, I'll do that.</v>
+<v Ariful Chowdhury>I'll do that.</v>
+<v Ariful Chowdhury>That's fine.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Ariful Chowdhury>Shall we go back?</v>
+<v Ariful Chowdhury>Go to the third topic I I think we are keeping and wait Brother Ahmed to take us through the reporting plan or ALM static reports.</v>
+<v Ariful Chowdhury>What do you brother Ahmed?</v>
+<v Ahmet Enes Demirhan>Yeah.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Ahmet Enes Demirhan>Well, there's most of the people were already in the other groups, so there's not much additional information, but the only information in on the the reporting side is that we've talked with the Amin, as Amin is trying to do a plan to complete the ALM static reports by September or August.</v>
+<v Ahmet Enes Demirhan>And for that, he, you know, he we went through for that he wanted from all from our side to complete all the templates and provided to him as soon as possible and and you know why am I and that's pretty much it from our side from an actionable update and the other updates are and the there's no other updates from that perspective that he will said he he he would be providing a new template soon for the timetable before he was trying to do the timeline with the old reports we've told them to use the new reports that we have provided them the to the the 20 reports that we provided them so yeah we expect as soon as the and and new timetable for 2222 provide us the other static reports they shall.</v>
+<v Ariful Chowdhury>So how?</v>
+<v Ahmet Enes Demirhan>3019 yeah, 19 one of them were gonna.</v>
+<v Ariful Chowdhury>How many reports in total are there in ALM static report OHH 20 so but but we have we have we have provided all the uh no seven I think templates right out of these 20 to move the team.</v>
+<v Ariful Chowdhury>Yeah, but it yeah, yeah.</v>
+<v Ahmet Enes Demirhan>Yeah, we've provided the the the exact number, I can't remember, but seven templates I think or no, we provide a second batch.</v>
+<v Ariful Chowdhury>Uh, we provide a second batch as well, OK.</v>
+<v Ahmet Enes Demirhan>And so if I have to check, let's see how many we've provided.</v>
+<v Ariful Chowdhury>But that's that's.</v>
+<v Ahmet Enes Demirhan>Yeah.</v>
+<v Ahmet Enes Demirhan>Yeah.</v>
+<v Ariful Chowdhury>Yeah, that's what the report development and BRDF all that but but the least I mean brother, I mean needs the least and then he will provide the planning right for how, how and what timeline everything.</v>
+<v Ahmet Enes Demirhan>Yeah, we already we we have already put a provided a list.</v>
+<v Ariful Chowdhury>OK.</v>
+<v Ariful Chowdhury>OK. Yeah.</v>
+<v Ahmet Enes Demirhan>I think they're confusion was that they were using the the old list from the the work order and now they've sort of changed it up to use the.</v>
+<v Ahmet Enes Demirhan>The thing that we provided.</v>
+<v Ariful Chowdhury>OK, OK.</v>
+<v Ariful Chowdhury>Template OK.</v>
+<v Ahmet Enes Demirhan>8910 we have provided them 11 templates, the the latest one templates, yeah.</v>
+<v Ariful Chowdhury>Alright, alright.</v>
+<v Ahmet Enes Demirhan>Yes.</v>
+<v Ahmet Enes Demirhan>Yes.</v>
+<v Ariful Chowdhury>Anyway, I think uh uh, in the next uh, Tuesday they will discuss appointment still with the FSD and maybe partly they they will also give us a or take us through the PRD for the report format that we shared with them anyway.</v>
+<v Ariful Chowdhury>That's fine.</v>
+<v Ariful Chowdhury>Alright.</v>
+<v Ariful Chowdhury>Is there any other comments or issues that colleagues or you want to discuss or raise?</v>
+<v Ariful Chowdhury>OK.</v>
+<v Ariful Chowdhury>If not, then we can conclude the meeting today.</v>
+<v Ariful Chowdhury>Thank you very much and your brothers for joining this meeting and hopefully inshallah, next week we'll meet with the Moody's team and of course with the uh, with our team internally.</v>
+<v Ariful Chowdhury>Internally. OK.</v>
+<v Ariful Chowdhury>Thank you very much.</v>
+<v Ariful Chowdhury>Then it's all I come, everyone.</v>
+<v Alfa Issa Goumandakoye>You can select.</v>
+<v Ahmet Enes Demirhan>But I could.</v>
